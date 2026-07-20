@@ -85,7 +85,7 @@ useEffect(() => {
   setLoading(true);
   console.log(
   "FETCH URL:",
-  `http://localhost:3000?question=${question}`
+  `https://wisdomscroll.onrender.com?question=${question}`
 );
 const response = await fetch(
   "https://dummyjson.com/quotes/random"
@@ -173,7 +173,7 @@ if (!entered) {
 <button
   onClick={async () => {
     const response = await fetch(
-      `http://localhost:3000?question=${question}`
+      `https://wisdomscroll.onrender.com?question=${question}`
     );
 
     const data = await response.text();
