@@ -160,9 +160,11 @@ if (!entered) {
 
 <input
   type="text"
-  placeholder="Ask WisdomScroll AI..."
-  value={question}
-  onChange={(e) => setQuestion(e.target.value)}
+  placeholder="Enter your name..."
+  value={visitorName}
+  onChange={(e) =>
+    setVisitorName(e.target.value)
+  }
 />
 
 <p>Question: {question}</p>
@@ -172,30 +174,29 @@ if (!entered) {
 
 <button
   onClick={async () => {
-    const response = await fetch(
-      `https://wisdomscroll.onrender.com?question=${question}`
+    localStorage.setItem(
+      "visitorName",
+      visitorName
     );
 
-    const data = await response.text();
+    localStorage.setItem(
+      "entered",
+      "true"
+    );
 
-    setAiResponse(data);
     await addDoc(
-  collection(db, "chats"),
-  {
-    question: question,
-    answer: data,
-    createdAt: Date.now(),
-  }
-);
-console.log("CHAT SAVED!");
-  }}
-  style={{
-    padding: "10px 20px",
-    borderRadius: "10px",
-    cursor: "pointer",
+      collection(db, "visitors"),
+      {
+        name: visitorName,
+        joinedAt: new Date().toLocaleDateString(),
+        createdAt: Date.now(),
+      }
+    );
+
+    setEntered(true);
   }}
 >
-  ASK
+  ENTER THE SCROLL
 </button>
     </div>
   );
@@ -268,7 +269,7 @@ console.log("CHAT SAVED!");
     console.log(question);
 
     const response = await fetch(
-      `http://localhost:3000?question=${encodeURIComponent(
+      `https://wisdomscroll.onrender.com?question=${encodeURIComponent(
         question
       )}`
     );
