@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+    background: #111827;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.4);
+  }
+  
+  .logo {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .links {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .links a {
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  
+  .links a:hover {
+    color: #3b82f6;
+  }
