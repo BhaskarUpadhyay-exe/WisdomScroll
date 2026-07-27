@@ -1,3 +1,4 @@
+import AIChat from "./components/AI/AIChat";
 import { db } from "./firebase";
 import {
   collection,
@@ -33,6 +34,18 @@ function App() {
     author: "Friedrich Nietzsche",
     category: "Philosophy",
   },
+  
+];
+const loadingMessages = [
+  "Consulting Marcus Aurelius...",
+  "Checking if Socrates is online...",
+  "Bribing the AI with electricity...",
+  "Teaching the AI not to overthrow humanity...",
+  "Opening the ancient scroll...",
+  "Pretending to be ChatGPT...",
+  "Negotiating with the wisdom gods...",
+  "Summoning ancient wisdom...",
+  "The Scroll Keeper is thinking...",
 ];
  const [quote, setQuote] = useState(quotes[0]);
  const [quoteCount, setQuoteCount] = useState(1);
@@ -51,7 +64,16 @@ const [copied, setCopied] = useState(false);
 const [search, setSearch] = useState("");
 const [question, setQuestion] = useState("");
 const [aiResponse, setAiResponse] = useState("");
+const [messages, setMessages] = useState([
+  {
+    id: 1,
+    role: "assistant",
+    content:
+      "👋 Welcome to WisdomScroll AI. Ask me anything.",
+  },
+]);
 const [loading, setLoading] = useState(false);
+const [loadingMessage, setLoadingMessage] = useState("");
 const [selectedCategory, setSelectedCategory] = useState("All");
 const [visitorName, setVisitorName] = useState("");
 const [visitors, setVisitors] = useState([]);
@@ -83,6 +105,7 @@ useEffect(() => {
   };
   const getQuoteFromAPI = async () => {
   setLoading(true);
+  console.log("LOADING TRUE");
   console.log(
   "FETCH URL:",
   `https://wisdomscroll.onrender.com?question=${question}`
@@ -101,6 +124,9 @@ const response = await fetch(
 setQuoteCount((prev) => prev + 1);
 setLoading(false);
 };
+useEffect(() => {
+  console.log("Loading:", loading);
+}, [loading]);
   const copyQuote = () => {
     navigator.clipboard.writeText(
   `${quote.text} — ${quote.author}`
@@ -242,56 +268,19 @@ if (!entered) {
     borderRadius: "20px",
   }}
 >
-  <h1>WISDOMSCROLL AI</h1>
-
-<p>Ask anything.</p>
-
-<input
-  type="text"
-  placeholder="Ask WisdomScroll AI..."
-  value={question}
-  onChange={(e) => setQuestion(e.target.value)}
-  style={{
-    padding: "10px",
-    width: "300px",
-    borderRadius: "10px",
-  }}
+  <AIChat
+  question={question}
+  setQuestion={setQuestion}
+  aiResponse={aiResponse}
+  loading={loading}
+  loadingMessage={loadingMessage}
+  loadingMessages={loadingMessages}
+  setLoading={setLoading}
+  setLoadingMessage={setLoadingMessage}
+  setAiResponse={setAiResponse}
+  messages={messages}
+  setMessages={setMessages}
 />
-
-<p>Question State: {question}</p>
-
-<br />
-<br />
-
-<button
-  onClick={async () => {
-    console.log("BUTTON CLICKED");
-    console.log(question);
-
-    const response = await fetch(
-      `https://wisdomscroll.onrender.com?question=${encodeURIComponent(
-        question
-      )}`
-    );
-
-    const data = await response.text();
-
-    console.log(data);
-
-    setAiResponse(data);
-  }}
-  style={{
-    padding: "10px 20px",
-    borderRadius: "10px",
-    cursor: "pointer",
-  }}
->
-  ASK
-</button>
-
-  <p style={{ marginTop: "20px" }}>
-  {aiResponse}
-</p>
 </div>
       <Hero
       getQuoteFromAPI={getQuoteFromAPI}
@@ -431,6 +420,7 @@ if (!entered) {
 
       Remove
     </button>
+
   </div>
 ))}
   </div>
