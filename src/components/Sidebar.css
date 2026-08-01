@@ -1,0 +1,35 @@
+.sidebar {
+  width: 280px;
+  height: 100vh;
+  background: #111827;
+  color: white;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.sidebar h2 {
+  margin-bottom: 20px;
+}
+
+.new-chat-btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.new-chat-btn:hover {
+  background: #1d4ed8;
+}
+
+.chat-list {
+  margin-top: 25px;
+}
+
+.chat-list p {
+  color: #9ca3af;
+}

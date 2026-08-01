@@ -1,17 +1,20 @@
-function AIChat({
+import { useChatContext } from "../../context/ChatContext";
+import { askAI } from "../../services/aiService";
+function AIChat() {const {
   question,
   setQuestion,
   aiResponse,
-  loading,
-  loadingMessage,
-  loadingMessages,
-  setLoading,
-  setLoadingMessage,
   setAiResponse,
+  loading,
+  setLoading,
+  loadingMessage,
+  setLoadingMessage,
   messages,
-setMessages,
-}) {
-const askAI = async () => {
+  setMessages,
+  loadingMessages,
+  startNewChat,
+} = useChatContext();
+const handleAskAI = async () => {
   console.log("askAI called");
   if (!question.trim() || loading) return;
   try {
@@ -21,11 +24,7 @@ const askAI = async () => {
     setLoading(true);
     setLoadingMessage(randomMessage);
 
-    const response = await fetch(
-      `https://wisdomscroll.onrender.com?question=${encodeURIComponent(question)}`
-    );
-
-    const data = await response.text();
+  const data = await askAI(question);
 
     setAiResponse(data);
 
@@ -89,7 +88,7 @@ const askAI = async () => {
 <form
   onSubmit={(e) => {
     e.preventDefault();
-    askAI();
+    handleAskAI();
   }}
   style={{
     display: "flex",
@@ -121,28 +120,6 @@ const askAI = async () => {
 </button>
 </form>
 
-     {loading ? (
-  <p
-    style={{
-      marginTop: "20px",
-      color: "#22C55E",
-      fontWeight: "bold",
-    }}
-  >
-    {loadingMessage}
-  </p>
-) : (
-  <p
-    style={{
-      marginTop: "20px",
-      maxWidth: "700px",
-      margin: "20px auto",
-      lineHeight: "1.8",
-    }}
-  >
-    {aiResponse}
-  </p>
-)}
     </div>
   );
 }
