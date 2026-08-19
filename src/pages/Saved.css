@@ -1,0 +1,396 @@
+.saved-page {
+  min-height: 100vh;
+  background: #0b1120;
+  color: white;
+  padding-bottom: 100px;
+}
+
+/* =========================
+   HEADER
+========================= */
+
+.saved-header {
+  min-height: 32vh;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+  padding: 70px 24px 40px;
+}
+
+.saved-label {
+  color: #f59e0b;
+
+  font-size: 12px;
+  font-weight: 800;
+
+  letter-spacing: 3px;
+
+  margin-bottom: 18px;
+}
+
+.saved-header h1 {
+  margin: 0;
+
+  font-size: clamp(42px, 6vw, 68px);
+
+  line-height: 1;
+
+  font-weight: 800;
+}
+
+.saved-header > p:last-child {
+  margin-top: 20px;
+
+  color: #9ca3af;
+
+  font-size: 16px;
+}
+
+/* =========================
+   EMPTY STATE
+========================= */
+
+.saved-empty {
+  max-width: 600px;
+
+  margin: 20px auto 0;
+
+  padding: 70px 24px;
+
+  text-align: center;
+}
+
+.saved-empty-icon {
+  font-size: 60px;
+
+  color: #6b7280;
+
+  margin-bottom: 20px;
+}
+
+.saved-empty h2 {
+  margin: 0;
+
+  font-size: 28px;
+}
+
+.saved-empty p {
+  margin-top: 12px;
+
+  color: #9ca3af;
+
+  font-size: 16px;
+}
+
+/* =========================
+   SAVED LIST
+========================= */
+
+.saved-list {
+  width: 100%;
+
+  padding-bottom: 40px;
+}
+
+/* =========================
+   CARD
+========================= */
+
+.saved-card {
+  width: 100%;
+
+  padding: 25px 24px 55px;
+
+  box-sizing: border-box;
+}
+
+.saved-card-inner {
+  width: 100%;
+
+  max-width: 950px;
+
+  margin: 0 auto;
+
+  padding: 55px 60px;
+
+  box-sizing: border-box;
+
+  background: #111827;
+
+  border: 1px solid
+    rgba(255, 255, 255, 0.07);
+
+  border-radius: 30px;
+
+  box-shadow:
+    0 30px 80px
+    rgba(0, 0, 0, 0.3);
+}
+
+/* =========================
+   REFERENCE
+========================= */
+
+.saved-reference {
+  color: #f59e0b;
+
+  font-size: 12px;
+
+  font-weight: 800;
+
+  letter-spacing: 2px;
+}
+
+/* =========================
+   HOOK
+========================= */
+
+.saved-hook {
+  margin-top: 30px;
+
+  color: #9ca3af;
+
+  font-size: 14px;
+
+  font-weight: 600;
+
+  line-height: 1.5;
+}
+
+/* =========================
+   MAIN WISDOM
+========================= */
+
+.saved-simple {
+  margin-top: 35px;
+
+  color: #f9fafb;
+
+  font-size: clamp(
+    30px,
+    4vw,
+    48px
+  );
+
+  line-height: 1.3;
+
+  font-weight: 700;
+}
+
+/* =========================
+   EXPLANATION
+========================= */
+
+.saved-explanation {
+  margin-top: 45px;
+
+  max-width: 750px;
+}
+
+.saved-section-label {
+  margin-bottom: 12px;
+
+  color: #6b7280;
+
+  font-size: 11px;
+
+  font-weight: 800;
+
+  letter-spacing: 2px;
+}
+
+.saved-explanation > p:last-child {
+  margin: 0;
+
+  color: #d1d5db;
+
+  font-size: 18px;
+
+  line-height: 1.7;
+}
+
+/* =========================
+   TODAY'S LESSON
+========================= */
+
+.saved-lesson {
+  margin-top: 35px;
+
+  padding: 24px;
+
+  background: #0b1120;
+
+  border-left: 3px solid #f59e0b;
+
+  border-radius: 12px;
+}
+
+.saved-lesson > p:last-child {
+  margin: 0;
+
+  color: #f3f4f6;
+
+  font-size: 17px;
+
+  line-height: 1.6;
+
+  font-weight: 600;
+}
+
+/* =========================
+   THEMES
+========================= */
+
+.saved-themes {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 8px;
+
+  margin-top: 25px;
+}
+
+.saved-themes span {
+  padding: 6px 10px;
+
+  background: #1f2937;
+
+  border: 1px solid #374151;
+
+  border-radius: 999px;
+
+  color: #9ca3af;
+
+  font-size: 12px;
+}
+
+/* =========================
+   ORIGINAL TRANSLATION
+========================= */
+
+.saved-original {
+  margin-top: 25px;
+
+  padding: 20px;
+
+  background: #0b1120;
+
+  border: 1px solid #1f2937;
+
+  border-radius: 12px;
+}
+
+.saved-original summary {
+  cursor: pointer;
+
+  color: #d1d5db;
+
+  font-size: 14px;
+}
+
+.saved-original p {
+  margin-top: 18px;
+
+  color: #9ca3af;
+
+  line-height: 1.6;
+}
+
+.saved-original small {
+  color: #6b7280;
+}
+
+/* =========================
+   ACTIONS
+========================= */
+
+.saved-actions {
+  display: flex;
+
+  gap: 12px;
+
+  margin-top: 30px;
+}
+
+.saved-actions button {
+  padding: 11px 18px;
+
+  background: transparent;
+
+  border: 1px solid #374151;
+
+  border-radius: 10px;
+
+  color: #d1d5db;
+
+  font-size: 13px;
+
+  cursor: pointer;
+
+  transition:
+    border-color 0.2s,
+    color 0.2s,
+    background 0.2s;
+}
+
+.saved-actions button:hover {
+  border-color: #f59e0b;
+
+  color: #f59e0b;
+
+  background: rgba(245, 158, 11, 0.05);
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 700px) {
+
+  .saved-header {
+    min-height: 30vh;
+
+    padding: 60px 20px 30px;
+  }
+
+  .saved-header h1 {
+    font-size: 42px;
+  }
+
+  .saved-header > p:last-child {
+    font-size: 15px;
+  }
+
+  .saved-card {
+    padding: 20px 16px 40px;
+  }
+
+  .saved-card-inner {
+    padding: 32px 24px;
+
+    border-radius: 22px;
+  }
+
+  .saved-simple {
+    font-size: 30px;
+  }
+
+  .saved-explanation {
+    margin-top: 35px;
+  }
+
+  .saved-actions {
+    flex-direction: column;
+  }
+
+  .saved-actions button {
+    width: 100%;
+  }
+}

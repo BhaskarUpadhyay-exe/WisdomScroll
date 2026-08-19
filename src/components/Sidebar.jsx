@@ -1,36 +1,53 @@
 import "./Sidebar.css";
-import { Link } from "react-router-dom";
-
+import { NavLink } from "react-router-dom";
 import { useChatContext } from "../context/ChatContext";
 
 function Sidebar() {
   const { startNewChat } = useChatContext();
+
   return (
-  <div className="sidebar">
-    <h2>WisdomScroll</h2>
+    <aside className="sidebar">
 
-    <button
-      className="new-chat-btn"
-     onClick={startNewChat}
-    >
-      + New Chat
-    </button>
+      <div className="sidebar-logo">
+        <h2>📜 WisdomScroll</h2>
+        <p>Build yourself.</p>
+      </div>
 
-    <div className="chat-list">
-      <Link to="/">🏠 Home</Link>
+      <button
+        className="new-chat-btn"
+        onClick={startNewChat}
+      >
+        + New Chat
+      </button>
 
-      <br />
-      <br />
+      <nav className="sidebar-nav">
 
-      <Link to="/chat">🤖 AI Chat</Link>
+        <NavLink
+          to="/"
+          className={({ isActive }) =>
+            isActive ? "nav-item active" : "nav-item"
+          }
+        >
+          🏠 Dashboard
+        </NavLink>
 
-      <br />
-      <br />
+        <NavLink
+          to="/chat"
+          className={({ isActive }) =>
+            isActive ? "nav-item active" : "nav-item"
+          }
+        >
+          🤖 Wisdom
+        </NavLink>
 
-      <Link to="/about">👤 About</Link>
-    </div>
-  </div>
-);
+      </nav>
+
+      <div className="sidebar-footer">
+        Version 1.0
+      </div>
+
+    </aside>
+  );
 }
 
 export default Sidebar;

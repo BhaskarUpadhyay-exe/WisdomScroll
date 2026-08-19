@@ -1,17 +1,19 @@
-import Sidebar from "./Sidebar";
+import "./Layout.css";
 import Navbar from "./Navbar";
 
-function Layout({ children, darkMode, setDarkMode, onNewChat }) {
+function Layout({
+  children,
+  darkMode,
+  setDarkMode,
+  showNavbar = true,
+}) {
   return (
-    <div
-      style={{
-        display: "flex",
-        minHeight: "100vh",
-      }}
-    >
-      <Sidebar onNewChat={onNewChat} />
+    <div className="app-layout">
 
-      <div style={{ flex: 1 }}>
+      <div className="main-content">
+
+        {showNavbar && <Navbar />}
+
         <button
           onClick={() => setDarkMode(!darkMode)}
           style={{
@@ -27,18 +29,12 @@ function Layout({ children, darkMode, setDarkMode, onNewChat }) {
           {darkMode ? "☀️" : "🌙"}
         </button>
 
-        <div
-          style={{
-            backgroundColor: darkMode ? "#111827" : "#FFFFFF",
-            color: darkMode ? "white" : "black",
-            minHeight: "100vh",
-          }}
-        >
-          <Navbar />
-
+        <div className="page-content">
           {children}
         </div>
+
       </div>
+
     </div>
   );
 }

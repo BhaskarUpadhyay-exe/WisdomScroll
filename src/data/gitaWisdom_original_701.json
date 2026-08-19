@@ -1,0 +1,3150 @@
+[
+  {
+    "verse_order": 1,
+    "chapter": 1,
+    "verse": 1,
+    "verseType": "question",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "King Dhritarashtra asks Sanjaya what his sons and the Pandavas did after gathering on the sacred battlefield of Kurukshetra.",
+    "explanation": "King Dhritarashtra asks Sanjaya to report what is happening on the holy plain of Kurukshetra. Both his own sons and the sons of Pandu have gathered there, ready for battle. He wants to know what they did once they assembled.",
+    "lifeLesson": null,
+    "themes": [
+      "conflict",
+      "battle"
+    ],
+    "tone": "questioning",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "धृतराष्ट्र उवाच\n\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\n\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय।।1.1।।\n ",
+      "transliteration": "dhṛitarāśhtra uvācha\ndharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya\n",
+      "translation": "Dhritarashtra said, \"What did my people and the sons of Pandu do when they had assembled together, eager for battle, on the holy plain of Kurukshetra, O Sanjaya?\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:54:26.262Z"
+  },
+  {
+    "verse_order": 2,
+    "chapter": 1,
+    "verse": 2,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Sanjaya describes how King Duryodhana observed the organized Pandava army and went to talk to his teacher, Drona.",
+    "explanation": "Sanjaya reports what is happening on the battlefield. King Duryodhana sees that the opposing Pandava army is fully prepared and arranged for battle. Seeing this, he walks over to speak with his teacher, Drona.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict",
+      "leadership"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "सञ्जय उवाच\n\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।\n\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत्।।1.2।।\n ",
+      "transliteration": "sañjaya uvācha\ndṛiṣhṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanastadā\nāchāryamupasaṅgamya rājā vachanamabravīt\n",
+      "translation": "Sanjaya said: Having seen the army of the Pandavas drawn up in battle array, King Duryodhana approached his teacher, Drona, and spoke these words.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:54:37.534Z"
+  },
+  {
+    "verse_order": 3,
+    "chapter": 1,
+    "verse": 3,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Duryodhana points out the large Pandava army to his teacher, noting it was organized by his teacher's talented student.",
+    "explanation": "In this verse, Duryodhana speaks to his teacher, Drona. He asks him to look at the massive army gathered by the Pandavas. He highlights that this army was arranged by the son of Drupada, who is Drona's own skilled student.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्।\n\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता।।1.3।।\n ",
+      "transliteration": "paśhyaitāṁ pāṇḍu-putrāṇām āchārya mahatīṁ chamūm\nvyūḍhāṁ drupada-putreṇa tava śhiṣhyeṇa dhīmatā\n",
+      "translation": "Behold, O Teacher! This mighty army of the sons of Pandu, arrayed by the son of Drupada, thy wise disciple.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:54:48.789Z"
+  },
+  {
+    "verse_order": 4,
+    "chapter": 1,
+    "verse": 4,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "This verse lists great archers and heroic warriors in the army who are as powerful in battle as Bhima and Arjuna.",
+    "explanation": "This verse names several powerful heroes and archers present on the battlefield. It highlights skilled warriors like Yuyudhana, Virata, and Drupada, comparing their strength in battle to famous fighters like Bhima and Arjuna.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।\n\nयुयुधानो विराटश्च द्रुपदश्च महारथः।।1.4।।\n ",
+      "transliteration": "atra śhūrā maheṣhvāsā bhīmārjuna-samā yudhi\nyuyudhāno virāṭaśhcha drupadaśhcha mahā-rathaḥ\n",
+      "translation": "Here are heroes, mighty archers, equal in battle to Bhima and Arjuna, Yuyudhana (Satyaki), Virata, and Drupada—all mighty warriors.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:55:01.361Z"
+  },
+  {
+    "verse_order": 5,
+    "chapter": 1,
+    "verse": 5,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "This verse names several heroic kings and warriors present on the battlefield, describing them as the best of men.",
+    "explanation": "This verse lists key warriors standing on the battlefield. It names Dhrishtaketu, Chekitana, the powerful king of Kasi, Purujit, Kuntibhoja, and Saibya. These individuals are praised as outstanding and brave leaders among men.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "leadership",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्।\n\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः।।1.5।।\n ",
+      "transliteration": "dhṛiṣhṭaketuśhchekitānaḥ kāśhirājaśhcha vīryavān\npurujit kuntibhojaśhcha śhaibyaśhcha nara-puṅgavaḥ\nyudhāmanyuśhcha vikrānta uttamaujāśhcha vīryavān\n",
+      "translation": "Dhrishtaketu, Chekitana, the valiant king of Kasi, Purujit, Kuntibhoja, and Saibya—the best of men.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:55:14.324Z"
+  },
+  {
+    "verse_order": 6,
+    "chapter": 1,
+    "verse": 6,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "This verse lists powerful warriors in the army, including Yudhamanyu, Uttamaujas, Abhimanyu, and the sons of Draupadi, calling them all great heroes.",
+    "explanation": "Duryodhana continues naming the key fighters on the opposing side. He highlights strong warriors like Yudhamanyu, brave Uttamaujas, Abhimanyu, and Draupadi’s sons. He recognizes that all of them are elite warriors.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।\n\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः।।1.6।।\n ",
+      "transliteration": "saubhadro draupadeyāśhcha sarva eva mahā-rathāḥ\n",
+      "translation": "The strong Yudhamanyu and the brave Uttamaujas, the son of Subhadra (Abhimanyu, the son of Subhadra and Arjuna), and the sons of Draupadi, all of them great charioteers (great heroes).\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:55:25.111Z"
+  },
+  {
+    "verse_order": 7,
+    "chapter": 1,
+    "verse": 7,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Duryodhana speaks to his teacher and offers to list the key commanders leading their army.",
+    "explanation": "Duryodhana addresses his teacher, calling him the best among the twice-born. He wants to point out the most distinguished leaders commanding their army so his teacher is fully informed.",
+    "lifeLesson": null,
+    "themes": [
+      "leadership",
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।\n\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते।।1.7।।\n ",
+      "transliteration": "asmākaṁ tu viśhiṣhṭā ye tānnibodha dwijottama\nnāyakā mama sainyasya sanjñārthaṁ tānbravīmi te\n",
+      "translation": "Know also, O best among the twice-born! the names of those who are the most distinguished amongst ourselves, the leaders of my army; these I name to you for your information.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:55:36.582Z"
+  },
+  {
+    "verse_order": 8,
+    "chapter": 1,
+    "verse": 8,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "This verse names major victorious warriors—including Bhishma, Karna, Kripa, Asvatthama, Vikarna, and Bhurisrava—who are fully prepared for battle.",
+    "explanation": "In this verse, specific powerful military leaders ready for combat are named. These fighters include Bhishma, Karna, Kripa, Asvatthama, Vikarna, and Bhurisrava. They are all described as victorious warriors who are assembled and prepared to fight.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।\n\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च।।1.8।।\n ",
+      "transliteration": "bhavānbhīṣhmaśhcha karṇaśhcha kṛipaśhcha samitiñjayaḥ\naśhvatthāmā vikarṇaśhcha saumadattis tathaiva cha\n",
+      "translation": "\"Thou thyself, Bhishma, Karna, Kripa, the victorious in war, Asvatthama, Vikarna, and Bhurisrava, the son of Somadatta—all these are ready for battle.\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:55:47.794Z"
+  },
+  {
+    "verse_order": 9,
+    "chapter": 1,
+    "verse": 9,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Duryodhana points out that many other skilled heroes, armed with various weapons, are ready to lay down their lives for him.",
+    "explanation": "Duryodhana is describing the rest of his army to Drona. He points out that there are many brave warriors who are highly trained in battle and equipped with many types of weapons. Crucially, these fighters are willing to risk and give up their lives for his cause.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict",
+      "leadership"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।\n\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः।।1.9।।\n ",
+      "transliteration": "anye cha bahavaḥ śhūrā madarthe tyaktajīvitāḥ\nnānā-śhastra-praharaṇāḥ sarve yuddha-viśhāradāḥ\n",
+      "translation": "And also many other heroes, ready to give up their lives for my sake, armed with various weapons and missiles, all well-skilled in battle.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:56:00.049Z"
+  },
+  {
+    "verse_order": 10,
+    "chapter": 1,
+    "verse": 10,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Duryodhana states that his army, protected by Bhishma, is insufficient, while the opposing army, led by Bhima, is sufficient.",
+    "explanation": "In this verse, Duryodhana compares the strength of the two opposing forces. He assesses his own army, commanded by Bhishma, as inadequate. In contrast, he considers the enemy army, guarded by Bhima, to be fully sufficient.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict",
+      "leadership"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।\n\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्।।1.10।।\n ",
+      "transliteration": "aparyāptaṁ tadasmākaṁ balaṁ bhīṣhmābhirakṣhitam\nparyāptaṁ tvidameteṣhāṁ balaṁ bhīmābhirakṣhitam\n",
+      "translation": "Our army, marshalled by Bhishma, is insufficient, whereas theirs, marshalled by Bhima, is sufficient.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-13T17:56:11.337Z"
+  },
+  {
+    "verse_order": 11,
+    "chapter": 1,
+    "verse": 11,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Duryodhana orders every warrior to hold their position and focus above all on protecting Bhishma.",
+    "explanation": "Continuing his address to Drona, Duryodhana commands all his warriors to take their assigned positions across the army's divisions. Above everything else, he insists they concentrate on protecting Bhishma, their commander-in-chief.",
+    "lifeLesson": null,
+    "themes": [
+      "leadership",
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः।\n\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि।।1.11।।\n ",
+      "transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ\nbhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi\n",
+      "translation": "Therefore, do all of you, stationed in your respective positions in the several divisions of the army, protect Bhishma alone.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 12,
+    "chapter": 1,
+    "verse": 12,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Bhishma, the eldest Kaurava, roars like a lion and blows his conch to lift Duryodhana's spirits.",
+    "explanation": "Sensing his grandson's anxiety, Bhishma responds with a display of confidence. He roars like a lion and sounds his conch loudly, a traditional signal marking readiness for war, meant to cheer Duryodhana.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "leadership"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः।\n\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्।।1.12।।\n ",
+      "transliteration": "tasya sañjanayan harṣhaṁ kuru-vṛiddhaḥ pitāmahaḥ\nsiṁha-nādaṁ vinadyochchaiḥ śhaṅkhaṁ dadhmau pratāpavān\n",
+      "translation": "His glorious grandsire, the oldest of the Kauravas, roared like a lion to cheer Duryodhana and blew his conch.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 13,
+    "chapter": 1,
+    "verse": 13,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Following Bhishma's conch, a deafening wave of conches, drums, and horns erupts across the Kaurava army.",
+    "explanation": "Bhishma's conch sets off a chain reaction. Conches, kettledrums, tabors, and horns suddenly sound together from the Kaurava side, producing an overwhelming wall of noise that signals the army is ready for war.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः।\n\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्।।1.13।।\n ",
+      "transliteration": "tataḥ śhaṅkhāśhcha bheryaśhcha paṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta sa śhabdastumulo ’bhavat\n",
+      "translation": "Then, suddenly, conches, kettledrums, tabors, drums, and cow horns blared forth from the Kaurava side, and the sound was tremendous.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 14,
+    "chapter": 1,
+    "verse": 14,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Seated in their grand chariot pulled by white horses, Krishna and Arjuna answer by blowing their own divine conches.",
+    "explanation": "On the other side of the battlefield, Krishna and Arjuna, riding together in a magnificent chariot drawn by white horses, respond to the Kaurava challenge. They sound their celestial conches to show the Pandavas are ready as well.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ।\n\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः।।1.14।।\n ",
+      "transliteration": "tataḥ śhvetairhayairyukte mahati syandane sthitau\nmādhavaḥ pāṇḍavaśhchaiva divyau śhaṅkhau pradadhmatuḥ\n",
+      "translation": "Then, Madhava (Krishna) and the son of Pandu (Arjuna), seated in the magnificent chariot yoked with white horses, blew divine conches.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 15,
+    "chapter": 1,
+    "verse": 15,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna blows the conch Panchajanya, Arjuna blows Devadatta, and mighty Bhima blows the great conch Paundra.",
+    "explanation": "This verse names the specific conches sounded by three key Pandava figures. Krishna sounds the Panchajanya, Arjuna the Devadatta, and Bhima, famed for his fearsome feats, sounds the massive Paundra.",
+    "lifeLesson": null,
+    "themes": [
+      "battle"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनंजयः।\n\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः।।1.15।।\n ",
+      "transliteration": "pāñchajanyaṁ hṛiṣhīkeśho devadattaṁ dhanañjayaḥ\npauṇḍraṁ dadhmau mahā-śhaṅkhaṁ bhīma-karmā vṛikodaraḥ\n",
+      "translation": "Hrishikesha blew the Panchajanya, Arjuna blew the Devadatta, and Bhima, the wolf-bellied doer of terrible deeds, blew the great conch Paundra.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 16,
+    "chapter": 1,
+    "verse": 16,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "King Yudhishthira blows the Anantavijaya conch, while his brothers Nakula and Sahadeva blow the Sughosha and Manipushpaka.",
+    "explanation": "The list of Pandava conches continues. Yudhishthira, the eldest brother, sounds the Anantavijaya, while the twins Nakula and Sahadeva sound the Sughosha and Manipushpaka.",
+    "lifeLesson": null,
+    "themes": [
+      "battle"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः।\n\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ।।1.16।।\n ",
+      "transliteration": "anantavijayaṁ rājā kuntī-putro yudhiṣhṭhiraḥ\nnakulaḥ sahadevaśhcha sughoṣha-maṇipuṣhpakau\n",
+      "translation": "King Yudhishthira, the son of Kunti, blew the Anantavijaya; Nakula and Sahadeva blew the Sughosha and the Manipushpaka.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 17,
+    "chapter": 1,
+    "verse": 17,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Other great warriors — the king of Kasi, Sikhandi, Dhrishtadyumna, Virata, and the unconquered Satyaki — also sound their conches.",
+    "explanation": "The roll call continues. Skilled fighters including the archer-king of Kasi, the mighty Sikhandi, Dhrishtadyumna, Virata, and the undefeated Satyaki all join in sounding their conches for battle.",
+    "lifeLesson": null,
+    "themes": [
+      "battle"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः।\n\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः।।1.17।।\n ",
+      "transliteration": "kāśhyaśhcha parameṣhvāsaḥ śhikhaṇḍī cha mahā-rathaḥ\ndhṛiṣhṭadyumno virāṭaśhcha sātyakiśh chāparājitaḥ\n",
+      "translation": "The king of Kasi, an excellent archer, Sikhandi, the mighty car-warrior, Dhrishtadyumna, Virata, and Satyaki, the unconquered.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 18,
+    "chapter": 1,
+    "verse": 18,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Drupada, Draupadi's sons, and the mighty-armed Abhimanyu each blow their own conches separately.",
+    "explanation": "Sanjaya tells Dhritarashtra that Drupada, the five sons of Draupadi, and Abhimanyu, son of Subhadra, each sound their individual conches, completing the roll call of Pandava warriors joining the call to battle.",
+    "lifeLesson": null,
+    "themes": [
+      "battle"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते।\n\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्।।1.18।।\n ",
+      "transliteration": "drupado draupadeyāśhcha sarvaśhaḥ pṛithivī-pate\nsaubhadraśhcha mahā-bāhuḥ śhaṅkhāndadhmuḥ pṛithak pṛithak\n",
+      "translation": "Drupada and the sons of Draupadi, O Lord of the Earth, and the son of Subhadra, the mighty-armed, blew their conches each separately.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 19,
+    "chapter": 1,
+    "verse": 19,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "The combined roar of Pandava conches is so overwhelming it shakes the hearts of Dhritarashtra's warriors and echoes through the sky and earth.",
+    "explanation": "The noise unleashed by the Pandava side is described as thunderous, reverberating across heaven and earth. Its intensity strikes fear into the hearts of the Kaurava warriors, foreshadowing the weight of the coming battle.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "fear",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्।\n\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन्।।1.19।।\n ",
+      "transliteration": "sa ghoṣho dhārtarāṣhṭrāṇāṁ hṛidayāni vyadārayat\nnabhaśhcha pṛithivīṁ chaiva tumulo nunādayan\n",
+      "translation": "The tumultuous sound rent the hearts of Dhritarashtra's party, reverberating through both heaven and earth.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 20,
+    "chapter": 1,
+    "verse": 20,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "As battle is about to begin, Arjuna raises his bow and turns to speak to Krishna, watching the enemy ranks standing ready.",
+    "explanation": "With weapons about to clash, Arjuna, whose chariot flag bears a monkey emblem, looks at the Kaurava forces arrayed for war. He lifts his bow and turns to Krishna, about to make a request before the fighting starts.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "medium",
+    "source": {
+      "sanskrit": "अथ व्यवस्थितान् दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः।\n\nप्रवृत्ते शस्त्रसंपाते धनुरुद्यम्य पाण्डवः।।1.20।।\n ",
+      "transliteration": "atha vyavasthitān dṛiṣhṭvā dhārtarāṣhṭrān kapi-dhwajaḥ\npravṛitte śhastra-sampāte dhanurudyamya pāṇḍavaḥ\n",
+      "translation": "Then, seeing the people of Dhritarashtra's party standing arrayed and the discharge of weapons about to begin, Arjuna, the son of Pandu whose ensign was a monkey, took up his bow and said the following to Krishna, O Lord of the Earth.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 21,
+    "chapter": 1,
+    "verse": 21,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna asks Krishna to drive his chariot to the middle, right between the two armies.",
+    "explanation": "Addressing Krishna as Achyuta, 'the infallible one,' Arjuna makes his first request before the battle: to position his chariot exactly between the two opposing armies, so he can see who he will be facing.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "questioning",
+    "confidence": "medium",
+    "source": {
+      "sanskrit": "अर्जुन उवाच\n\nहृषीकेशं तदा वाक्यमिदमाह महीपते।\n\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत।।1.21।।\n ",
+      "transliteration": "arjuna uvācha\nsenayor ubhayor madhye rathaṁ sthāpaya me ’chyuta\n",
+      "translation": "Arjuna said, \"O Krishna, place my chariot in the middle between the two armies.\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 22,
+    "chapter": 1,
+    "verse": 22,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "He wants to see exactly who has gathered here, ready to fight, before the battle truly begins.",
+    "explanation": "Arjuna continues his request to Krishna, explaining his reason: he wants a clear view of everyone who has assembled for battle, so he knows precisely who he will face once the fighting starts.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "questioning",
+    "confidence": "medium",
+    "source": {
+      "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्।\n\nकैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे।।1.22।।\n ",
+      "transliteration": "yāvadetān nirīkṣhe ’haṁ yoddhu-kāmān avasthitān\nkairmayā saha yoddhavyam asmin raṇa-samudyame\n",
+      "translation": "...so that I may behold those who stand here, desirous to fight, and know with whom I must fight when the battle is about to commence.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 23,
+    "chapter": 1,
+    "verse": 23,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna wants to see which warriors have come to fight for Duryodhana, whom he calls evil-minded.",
+    "explanation": "Arjuna clarifies further: he wants to observe the fighters who have gathered specifically to please Duryodhana, whom he openly calls evil-minded, before the battle begins.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः।\n\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः।।1.23।।\n ",
+      "transliteration": "yotsyamānān avekṣhe ’haṁ ya ete ’tra samāgatāḥ\ndhārtarāṣhṭrasya durbuddher yuddhe priya-chikīrṣhavaḥ\n",
+      "translation": "For I desire to observe those who are assembled here to fight, wishing to please in battle the evil-minded Duryodhana—the son of Dhritarashtra.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 24,
+    "chapter": 1,
+    "verse": 24,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Sanjaya tells Dhritarashtra that Krishna did as Arjuna asked, positioning the finest chariot between the two armies.",
+    "explanation": "Responding to Arjuna's request, Krishna guides their splendid chariot to the exact spot between the two armies, right in front of the assembled kings and warriors, setting the stage for what Arjuna is about to see.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "संजय उवाच\n\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत।\n\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्।।1.24।।\n ",
+      "transliteration": "sañjaya uvācha\nevam ukto hṛiṣhīkeśho guḍākeśhena bhārata\nsenayor ubhayor madhye sthāpayitvā rathottamam\n",
+      "translation": "Sanjaya said, Thus addressed by Arjuna, Krishna stationed the best of chariots, O Dhritarashtra, in the midst of the two armies.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 25,
+    "chapter": 1,
+    "verse": 25,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Standing before Bhishma, Drona, and all the assembled kings, Krishna tells Arjuna to look at the Kuru family gathered for war.",
+    "explanation": "With the chariot now positioned between the armies, Krishna directs Arjuna's attention to the scene before him, right in front of Bhishma, Drona, and the other rulers, inviting him to truly see his extended family gathered for battle.",
+    "lifeLesson": null,
+    "themes": [
+      "battle",
+      "relationships",
+      "conflict"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्।\n\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति।।1.25।।\n ",
+      "transliteration": "bhīṣhma-droṇa-pramukhataḥ sarveṣhāṁ cha mahī-kṣhitām\nuvācha pārtha paśhyaitān samavetān kurūn iti\n",
+      "translation": "In front of Bhishma and Drona, and all the rulers of the earth, he said: \"O Arjuna, son of Pritha, behold these Kurus gathered together.\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 26,
+    "chapter": 1,
+    "verse": 26,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna looks around and sees fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, and friends standing in both armies.",
+    "explanation": "As he looks across the battlefield, Arjuna begins to recognize the people standing before him, not enemies in the abstract, but his own relatives: fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, and close friends.",
+    "lifeLesson": null,
+    "themes": [
+      "relationships",
+      "battle",
+      "conflict"
+    ],
+    "tone": "reflective",
+    "confidence": "medium",
+    "source": {
+      "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितृ़नथ पितामहान्।\n\nआचार्यान्मातुलान्भ्रातृ़न्पुत्रान्पौत्रान्सखींस्तथा।।1.26।।\n ",
+      "transliteration": "tatrāpaśhyat sthitān pārthaḥ pitṝīn atha pitāmahān\nāchāryān mātulān bhrātṝīn putrān pautrān sakhīṁs tathā\n",
+      "translation": "Then, Arjuna (son of Pritha) saw there (in the armies) stationed fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and friends.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 27,
+    "chapter": 1,
+    "verse": 27,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna also notices fathers-in-law and friends among the two armies, growing overwhelmed as he takes in the sight of his own family arrayed for war.",
+    "explanation": "Continuing to scan the battlefield, Arjuna spots even more relatives, fathers-in-law and close friends, present in both armies. Seeing his kinsmen standing ready to fight begins to overwhelm him emotionally.",
+    "lifeLesson": null,
+    "themes": [
+      "relationships",
+      "conflict",
+      "suffering"
+    ],
+    "tone": "compassionate",
+    "confidence": "medium",
+    "source": {
+      "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि।\n\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्।।1.27।।\n ",
+      "transliteration": "tān samīkṣhya sa kaunteyaḥ sarvān bandhūn avasthitān\n",
+      "translation": "He saw fathers-in-law and friends in both the armies. The son of Kunti, Arjuna, seeing all those kinsmen thus standing arrayed.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 28,
+    "chapter": 1,
+    "verse": 28,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Overwhelmed with deep pity, Arjuna tells Krishna he cannot bear seeing his own people ready to fight each other.",
+    "explanation": "Arjuna, overcome with sorrow, begins to speak. He tells Krishna that seeing his own kinsmen standing before him, eager for battle, has filled him with grief. (Note: the source translation for this verse is itself left incomplete mid-sentence, continuing directly into the next verse.)",
+    "lifeLesson": null,
+    "themes": [
+      "suffering",
+      "relationships",
+      "compassion"
+    ],
+    "tone": "compassionate",
+    "confidence": "medium",
+    "source": {
+      "sanskrit": "अर्जुन उवाच\n\nकृपया परयाऽऽविष्टो विषीदन्निदमब्रवीत्।\n\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्।।1.28।।\n ",
+      "transliteration": "arjuna uvācha\nkṛipayā parayāviṣhṭo viṣhīdann idam abravīt\ndṛiṣhṭvemaṁ sva-janaṁ kṛiṣhṇa yuyutsuṁ samupasthitam\n",
+      "translation": "Arjuna, overcome with deep pity, sorrowing, said: \"O Krishna, seeing my kinsmen arrayed here, eager to fight,",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 29,
+    "chapter": 1,
+    "verse": 29,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna describes his body reacting to shock and grief: his limbs weaken, his mouth goes dry, and he trembles all over.",
+    "explanation": "Arjuna details the physical symptoms of his emotional collapse: his limbs feel weak, his mouth dries up, his body trembles, and his hair stands on end. This vivid description shows the depth of his inner turmoil.",
+    "lifeLesson": null,
+    "themes": [
+      "suffering",
+      "fear"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति।\n\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते।।1.29।।\n ",
+      "transliteration": "sīdanti mama gātrāṇi mukhaṁ cha pariśhuṣhyati\nvepathuśh cha śharīre me roma-harṣhaśh cha jāyate\n",
+      "translation": "My limbs fail, my mouth is parched, my body quivers, and my hair stands on end.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 30,
+    "chapter": 1,
+    "verse": 30,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "His bow slips from his hand, his skin feels like it's burning, and his mind spins so much he can barely stand.",
+    "explanation": "Arjuna's distress deepens. He can no longer hold his bow steady, his skin feels as if it's on fire, and he feels physically unable to stand upright as his mind spins out of control.",
+    "lifeLesson": null,
+    "themes": [
+      "suffering",
+      "fear"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।\n\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः।।1.30।।\n ",
+      "transliteration": "gāṇḍīvaṁ sraṁsate hastāt tvak chaiva paridahyate\nna cha śhaknomy avasthātuṁ bhramatīva cha me manaḥ\n",
+      "translation": "The Gandiva slips from my hand, and my skin burns all over; I am unable to stand, and my mind is reeling, as it were.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 31,
+    "chapter": 1,
+    "verse": 31,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna sees bad omens all around and feels certain that nothing good can come from killing his own family in battle.",
+    "explanation": "Arjuna interprets the atmosphere around him as filled with ill omens. He states plainly that he sees no benefit or good outcome that could justify killing his relatives in war.",
+    "lifeLesson": null,
+    "themes": [
+      "conflict",
+      "suffering"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव।\n\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे।।1.31।।\n ",
+      "transliteration": "nimittāni cha paśhyāmi viparītāni keśhava\nna cha śhreyo ’nupaśhyāmi hatvā sva-janam āhave\n",
+      "translation": "And I see ill omens, O Kesava. I do not see any good in slaying my kinsmen in battle.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 32,
+    "chapter": 1,
+    "verse": 32,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna says he no longer wants victory, a kingdom, or comfort, and even questions the point of it all under these circumstances.",
+    "explanation": "Arjuna declares he has lost all desire for the things he would normally fight for: victory, a kingdom, and personal happiness. He questions what value any of these could have if he must kill loved ones to get them.",
+    "lifeLesson": null,
+    "themes": [
+      "desire",
+      "detachment",
+      "suffering"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च।\n\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा।।1.32।।\n ",
+      "transliteration": "na kāṅkṣhe vijayaṁ kṛiṣhṇa na cha rājyaṁ sukhāni cha\nkiṁ no rājyena govinda kiṁ bhogair jīvitena vā\n",
+      "translation": "I desire not victory, O Krishna, nor kingdom, nor pleasures.\nWhat use is dominion to us, O Krishna, or pleasures or even life?",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 33,
+    "chapter": 1,
+    "verse": 33,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "The very people he'd be fighting for, his elders and relatives, are the ones now standing in front of him, ready to risk everything.",
+    "explanation": "Arjuna points out the irony of the situation: the kingdom and pleasures he might gain are meant to be enjoyed together with these same relatives. Yet those very people now stand ready to risk their lives in this war.",
+    "lifeLesson": null,
+    "themes": [
+      "relationships",
+      "conflict",
+      "desire"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च।\n\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च।।1.33।।\n ",
+      "transliteration": "yeṣhām arthe kāṅkṣhitaṁ no rājyaṁ bhogāḥ sukhāni cha\nta ime ’vasthitā yuddhe prāṇāṁs tyaktvā dhanāni cha\n",
+      "translation": "Those for whose sake we desire kingdom, enjoyments, and pleasures stand here in battle, having renounced life and wealth.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 34,
+    "chapter": 1,
+    "verse": 34,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna lists exactly who stands opposite him: teachers, fathers, sons, grandfathers, uncles, in-laws, grandsons, and other relatives.",
+    "explanation": "Arjuna continues naming the categories of people arrayed against him, emphasizing just how many close relationships he would be severing through violence: teachers, father-figures, and several generations of family.",
+    "lifeLesson": null,
+    "themes": [
+      "relationships",
+      "conflict"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः।\n\nमातुलाः श्चशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा।।1.34।।\n ",
+      "transliteration": "āchāryāḥ pitaraḥ putrās tathaiva cha pitāmahāḥ\nmātulāḥ śhvaśhurāḥ pautrāḥ śhyālāḥ sambandhinas tathā\n",
+      "translation": "Teachers, fathers, sons, and grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives—",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 35,
+    "chapter": 1,
+    "verse": 35,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna insists he won't kill these people even if it costs him his own life, let alone for the sake of ruling the whole world.",
+    "explanation": "Arjuna firmly states his refusal. Even if these relatives were to kill him first, he still would not kill them, not even for the reward of ruling all three worlds, much less for something as small as earthly kingship.",
+    "lifeLesson": null,
+    "themes": [
+      "detachment",
+      "conflict",
+      "relationships"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन।\n\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते।।1.35।।\n ",
+      "transliteration": "etān na hantum ichchhāmi ghnato ’pi madhusūdana\napi trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛite\n",
+      "translation": "These I do not wish to kill, O Krishna, even though they kill me, for the sake of dominion over the three worlds; leave alone killing them for the sake of the earth.\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 36,
+    "chapter": 1,
+    "verse": 36,
+    "verseType": "question",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna asks what joy could possibly come from killing Dhritarashtra's sons, believing it would only bring sin.",
+    "explanation": "Arjuna questions the moral logic of the war. Even naming the opposing side as aggressors, he argues that killing them would bring no real happiness, only guilt and sin for those responsible.",
+    "lifeLesson": null,
+    "themes": [
+      "conflict",
+      "suffering"
+    ],
+    "tone": "questioning",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन।\n\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः।।1.36।।\n ",
+      "transliteration": "nihatya dhārtarāṣhṭrān naḥ kā prītiḥ syāj janārdana\npāpam evāśhrayed asmān hatvaitān ātatāyinaḥ\n",
+      "translation": "By killing these sons of Dhritarashtra, what pleasure could be ours, O Janardana? Only sin would accrue to us from killing these felons.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 37,
+    "chapter": 1,
+    "verse": 37,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna concludes that they should not kill their own relatives, since killing family could never bring true happiness.",
+    "explanation": "Building on his previous point, Arjuna draws his conclusion: since killing brings only sin and no joy, they should not go through with killing Dhritarashtra's sons, who are their own relatives.",
+    "lifeLesson": null,
+    "themes": [
+      "conflict",
+      "relationships"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्।\n\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव।।1.37।।\n ",
+      "transliteration": "tasmān nārhā vayaṁ hantuṁ dhārtarāṣhṭrān sa-bāndhavān \nsva-janaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava\n",
+      "translation": "Therefore, we should not kill the sons of Dhritarashtra, our relatives; for how can we be happy by killing our own kin, O Madhava (Krishna)?",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 38,
+    "chapter": 1,
+    "verse": 38,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Even though the enemy may be blinded by greed and can't see the wrongness of destroying families, Arjuna feels he must see it clearly.",
+    "explanation": "Arjuna acknowledges that the enemy, driven by greed, cannot recognize the harm caused by destroying families or betraying friends. He implies that he and his side, however, should know better.",
+    "lifeLesson": null,
+    "themes": [
+      "greed",
+      "wisdom",
+      "conflict"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः।\n\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्।।1.38।।\n ",
+      "transliteration": "yady apy ete na paśhyanti lobhopahata-chetasaḥ\nkula-kṣhaya-kṛitaṁ doṣhaṁ mitra-drohe cha pātakam\n",
+      "translation": "Though they, with intelligence overpowered by greed, see no evil in the destruction of families and no sin in hostility to friends,",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 39,
+    "chapter": 1,
+    "verse": 39,
+    "verseType": "question",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna asks why he and his side, who clearly see the harm in destroying a family, shouldn't choose to turn away from this sin.",
+    "explanation": "Unlike the enemy, Arjuna argues that he and his side can clearly perceive the wrongness of destroying families through war. He asks why they wouldn't use that clarity to step back from committing this sin.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "conflict"
+    ],
+    "tone": "questioning",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्।\n\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन।।1.39।।\n ",
+      "transliteration": "kathaṁ na jñeyam asmābhiḥ pāpād asmān nivartitum\nkula-kṣhaya-kṛitaṁ doṣhaṁ prapaśhyadbhir janārdana\n",
+      "translation": "Why should we not, who clearly see the evil in the destruction of families, learn to turn away from this sin, O Janardana (Krishna)?",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 40,
+    "chapter": 1,
+    "verse": 40,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna explains that when a family is destroyed, its ancient traditions die out too, and disorder takes over where duty once stood.",
+    "explanation": "Arjuna warns of the deeper consequences of war: destroying a family doesn't just end lives, it wipes out the sacred traditions passed down through generations. Once those traditions are lost, chaos overtakes the family entirely.",
+    "lifeLesson": null,
+    "themes": [
+      "dharma",
+      "impermanence",
+      "conflict"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः।\n\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत।।1.40।।\n ",
+      "transliteration": "kula-kṣhaye praṇaśhyanti kula-dharmāḥ sanātanāḥ\ndharme naṣhṭe kulaṁ kṛitsnam adharmo ’bhibhavaty uta\n",
+      "translation": "In the destruction of a family, the immemorial religious rites of that family perish; on the destruction of spirituality, impiety indeed, overwhelms the whole family.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 41,
+    "chapter": 1,
+    "verse": 41,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna claims that when a family's moral order breaks down, its traditions and social structure begin to unravel as well.",
+    "explanation": "Continuing his argument about the destruction of dharma, Arjuna states that when righteousness collapses in a family, it leads to a broader breakdown of the family's traditional social order, as this verse describes it.",
+    "lifeLesson": null,
+    "themes": [
+      "dharma",
+      "conflict"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः।\n\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः।।1.41।।\n ",
+      "transliteration": "adharmābhibhavāt kṛiṣhṇa praduṣhyanti kula-striyaḥ\nstrīṣhu duṣhṭāsu vārṣhṇeya jāyate varṇa-saṅkaraḥ\n",
+      "translation": "O Krishna, by the prevalence of impiety, the women of the family become corrupt; and, when women are corrupted, O Varshenya (descendant of Vrishni), intermingling of castes arises.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 42,
+    "chapter": 1,
+    "verse": 42,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna warns that this social breakdown condemns the family's ancestors, who lose the offerings that traditionally sustain them.",
+    "explanation": "Arjuna continues describing the fallout: he believes this disorder harms both the living and the family's ancestors, who depend on ritual offerings of food and water that would no longer be properly performed.",
+    "lifeLesson": null,
+    "themes": [
+      "dharma",
+      "death",
+      "impermanence"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च।\n\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः।।1.42।।\n ",
+      "transliteration": "saṅkaro narakāyaiva kula-ghnānāṁ kulasya cha\npatanti pitaro hy eṣhāṁ lupta-piṇḍodaka-kriyāḥ\n",
+      "translation": "Confusion of castes leads to hell for the slayers of the family, for their forebears fall, deprived of the offerings of rice-balls and libations of water.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 43,
+    "chapter": 1,
+    "verse": 43,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna concludes that these wrongful acts destroy the family's long-standing sacred traditions completely.",
+    "explanation": "Arjuna sums up this part of his argument: the destructive consequences he's described ultimately erase the eternal duties and rites that have defined and protected the family for generations.",
+    "lifeLesson": null,
+    "themes": [
+      "dharma",
+      "impermanence"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः।\n\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः।।1.43।।\n ",
+      "transliteration": "doṣhair etaiḥ kula-ghnānāṁ varṇa-saṅkara-kārakaiḥ\nutsādyante jāti-dharmāḥ kula-dharmāśh cha śhāśhvatāḥ\n",
+      "translation": "By these evil deeds of the destroyers of the family, which cause confusion of castes, the eternal religious rites of the caste and the family are destroyed.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 44,
+    "chapter": 1,
+    "verse": 44,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna says he has heard that people from families whose sacred duties are destroyed are doomed to suffer in hell for a long time.",
+    "explanation": "Arjuna cites a traditional belief he has heard: that people belonging to families where religious duties have collapsed are destined to endure punishment in hell for an indefinite period of time.",
+    "lifeLesson": null,
+    "themes": [
+      "dharma",
+      "death"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन।\n\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम।।1.44।।\n ",
+      "transliteration": "utsanna-kula-dharmāṇāṁ manuṣhyāṇāṁ janārdana\nnarake ‘niyataṁ vāso bhavatītyanuśhuśhruma\n",
+      "translation": "We have heard, O Janardana, that those men in whose families the religious practices have been destroyed are inevitably destined to dwell in hell for an unknown period.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 45,
+    "chapter": 1,
+    "verse": 45,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna laments that he and his side are about to commit a terrible sin, driven by nothing more than greed for a kingdom's comforts.",
+    "explanation": "Arjuna expresses deep regret, recognizing that the underlying motive for this war, greed for royal pleasures, is not worth the immense sin of killing one's own family.",
+    "lifeLesson": null,
+    "themes": [
+      "greed",
+      "suffering",
+      "conflict"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्।\n\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः।।1.45।।\n ",
+      "transliteration": "aho bata mahat pāpaṁ kartuṁ vyavasitā vayam\nyad rājya-sukha-lobhena hantuṁ sva-janam udyatāḥ\n",
+      "translation": "Alas! We are involved in a great sin, for we are prepared to kill our kinsmen, out of greed for the pleasures of a kingdom.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 46,
+    "chapter": 1,
+    "verse": 46,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna says he would rather be killed unarmed and without fighting back than go through with this war.",
+    "explanation": "In deep despair, Arjuna declares he would prefer to die passively at the hands of Dhritarashtra's armed sons than to fight and kill his own relatives.",
+    "lifeLesson": null,
+    "themes": [
+      "suffering",
+      "detachment",
+      "conflict"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः।\n\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्।।1.46।।\n ",
+      "transliteration": "yadi mām apratīkāram aśhastraṁ śhastra-pāṇayaḥ\ndhārtarāṣhṭrā raṇe hanyus tan me kṣhemataraṁ bhavet\n",
+      "translation": "If the sons of Dhritarashtra, with weapons in hand, should slay me in battle, unresisting and unarmed, that would be better for me.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 47,
+    "chapter": 1,
+    "verse": 47,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Sanjaya reports that Arjuna, overwhelmed with grief, drops his bow and arrows and sits down in his chariot.",
+    "explanation": "Having finished expressing his anguish, Arjuna physically gives up: he throws down his bow and arrows and collapses onto the seat of his chariot, completely overcome by sorrow. This sets the stage for Krishna's teaching in Chapter 2.",
+    "lifeLesson": null,
+    "themes": [
+      "suffering",
+      "conflict"
+    ],
+    "tone": "compassionate",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "सञ्जय उवाच\n\nएवमुक्त्वाऽर्जुनः संख्ये रथोपस्थ उपाविशत्।\n\nविसृज्य सशरं चापं शोकसंविग्नमानसः।।1.47।।\n ",
+      "transliteration": "sañjaya uvācha\nevam uktvārjunaḥ saṅkhye rathopastha upāviśhat\nvisṛijya sa-śharaṁ chāpaṁ śhoka-saṁvigna-mānasaḥ\n",
+      "translation": "Sanjaya said, Having thus spoken in the midst of the battlefield, Arjuna cast away his bow and arrow and, his mind overwhelmed with sorrow, sat down on the seat of the chariot.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T09:00:00.000Z"
+  },
+  {
+    "verse_order": 48,
+    "chapter": 2,
+    "verse": 1,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Sanjaya tells Dhritarashtra that Krishna spoke to Arjuna, who sat overwhelmed with pity, tears, and despair.",
+    "explanation": "Sanjaya continues his report to the blind king. He describes Arjuna as consumed by pity, his eyes filled with tears, deeply agitated and despondent. It is at this moment that Krishna, called Madhusudana, begins to speak to him.",
+    "lifeLesson": null,
+    "themes": [
+      "suffering",
+      "compassion"
+    ],
+    "tone": "compassionate",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "सञ्जय उवाच\n\nतं तथा कृपयाऽविष्टमश्रुपूर्णाकुलेक्षणम्।\n\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः।।2.1।।\n ",
+      "transliteration": "sañjaya uvācha\ntaṁ tathā kṛipayāviṣhṭamaśhru pūrṇākulekṣhaṇam\nviṣhīdantamidaṁ vākyam uvācha madhusūdanaḥ\n",
+      "translation": "Sanjaya said: To him, who was thus overcome with pity, despondent, with eyes full of tears and agitated, Madhusudana (the destroyer of Madhu) or Krishna spoke these words.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 49,
+    "chapter": 2,
+    "verse": 2,
+    "verseType": "question",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna asks Arjuna where this un-Arjuna-like weakness has come from, calling it disgraceful and unworthy of him.",
+    "explanation": "Krishna's first words are direct and challenging. He asks Arjuna where this sudden dejection has come from, telling him plainly that it is unbecoming of him, dishonorable, and will not lead him anywhere good.",
+    "lifeLesson": null,
+    "themes": [
+      "courage",
+      "conflict"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "श्री भगवानुवाच\n\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्।\n\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन।।2.2।।\n ",
+      "transliteration": "śhrī bhagavān uvācha\nkutastvā kaśhmalamidaṁ viṣhame samupasthitam\nanārya-juṣhṭamaswargyam akīrti-karam arjuna\n",
+      "translation": "The Blessed Lord said, \"From whence has this perilous strait come upon you, this dejection which is unworthy of you, disgraceful, and which will close the gates of heaven upon you, O Arjuna?\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 50,
+    "chapter": 2,
+    "verse": 3,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna not to give in to weakness, since it doesn't suit him, and to stand up and fight.",
+    "explanation": "Krishna pushes back firmly against Arjuna's collapse. He tells him this small-mindedness does not belong to someone of his caliber, and urges him to cast it off and rise to face the battle ahead.",
+    "lifeLesson": "Sometimes the most caring response to someone's despair is a firm push to get back up, not just sympathy.",
+    "themes": [
+      "courage",
+      "discipline"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते।\n\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप।।2.3।।\n ",
+      "transliteration": "klaibyaṁ mā sma gamaḥ pārtha naitat tvayyupapadyate\nkṣhudraṁ hṛidaya-daurbalyaṁ tyaktvottiṣhṭha parantapa\n",
+      "translation": "Do not yield to impotence, O Arjuna, son of Pritha. It does not befit you. Cast off this mean weakness of the heart! Stand up, O conqueror of foes!",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 51,
+    "chapter": 2,
+    "verse": 4,
+    "verseType": "question",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna asks how he could possibly shoot arrows at Bhishma and Drona, men he deeply respects and reveres.",
+    "explanation": "Arjuna pushes back against Krishna's challenge. He asks how he could possibly take up arms against Bhishma and Drona, two men he considers worthy of worship, not violence.",
+    "lifeLesson": null,
+    "themes": [
+      "relationships",
+      "conflict"
+    ],
+    "tone": "questioning",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अर्जुन उवाच\n\nकथं भीष्ममहं संख्ये द्रोणं च मधुसूदन।\n\nइषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन।।2.4।।\n ",
+      "transliteration": "arjuna uvācha\nkathaṁ bhīṣhmam ahaṁ sankhye droṇaṁ cha madhusūdana\niṣhubhiḥ pratiyotsyāmi pūjārhāvari-sūdana\n",
+      "translation": "Arjuna said, \"O Madhusudana, how can I fight in battle with arrows against Bhishma and Drona, who are worthy of being worshipped, O destroyer of enemies?\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 52,
+    "chapter": 2,
+    "verse": 5,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna says he'd rather live on alms than kill his noble teachers, since victory gained that way would be stained with their blood.",
+    "explanation": "Arjuna explains his reasoning further. He would rather beg for his food than kill such respected teachers, because any wealth or pleasure won by their deaths would forever feel stained with their blood.",
+    "lifeLesson": null,
+    "themes": [
+      "relationships",
+      "suffering",
+      "conflict"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "गुरूनहत्वा हि महानुभावान्\n\nश्रेयो भोक्तुं भैक्ष्यमपीह लोके।\n\nहत्वार्थकामांस्तु गुरूनिहैव\n\nभुञ्जीय भोगान् रुधिरप्रदिग्धान्।।2.5।।\n ",
+      "transliteration": "gurūnahatvā hi mahānubhāvān\nśhreyo bhoktuṁ bhaikṣhyamapīha loke\nhatvārtha-kāmāṁstu gurūnihaiva\nbhuñjīya bhogān rudhira-pradigdhān\n",
+      "translation": "Better it is, indeed, in this world to accept alms than to slay the most noble teachers. But if I were to kill them, even in this world, all my enjoyments of wealth and fulfilled desires would be stained with their blood.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 53,
+    "chapter": 2,
+    "verse": 6,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna admits he can't tell whether winning or losing would be worse, since the people he'd have to kill stand right before him.",
+    "explanation": "Arjuna confesses deep uncertainty. He genuinely doesn't know which outcome would be better, conquering or being conquered, since the very people he doesn't wish to kill are standing directly in front of him, ready for war.",
+    "lifeLesson": null,
+    "themes": [
+      "conflict",
+      "suffering"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो\n\nयद्वा जयेम यदि वा नो जयेयुः।\n\nयानेव हत्वा न जिजीविषाम\n\nस्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः।।2.6।।\n ",
+      "transliteration": "na chaitadvidmaḥ kataranno garīyo\nyadvā jayema yadi vā no jayeyuḥ\nyāneva hatvā na jijīviṣhāmas\nte ’vasthitāḥ pramukhe dhārtarāṣhṭrāḥ\n",
+      "translation": "I can hardly tell which would be better, that we should conquer them or that they should conquer us. Even the sons of Dhritarashtra, whom we do not wish to slay, stand facing us.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 54,
+    "chapter": 2,
+    "verse": 7,
+    "verseType": "question",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Confused about his duty, Arjuna asks Krishna to tell him clearly what is right, declaring himself Krishna's student.",
+    "explanation": "Arjuna's resistance turns into surrender. Overwhelmed and unsure of his duty, he openly asks Krishna to tell him decisively what path is right, and declares himself Krishna's disciple, ready to be taught.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "faith"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "कार्पण्यदोषोपहतस्वभावः\n\nपृच्छामि त्वां धर्मसंमूढचेताः।\n\nयच्छ्रेयः स्यान्निश्िचतं ब्रूहि तन्मे\n\nशिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्।।2.7।।\n ",
+      "transliteration": "kārpaṇya-doṣhopahata-svabhāvaḥ\npṛichchhāmi tvāṁ dharma-sammūḍha-chetāḥ\nyach-chhreyaḥ syānniśhchitaṁ brūhi tanme\nśhiṣhyaste ’haṁ śhādhi māṁ tvāṁ prapannam\n",
+      "translation": "My heart is overpowered by the taint of pity; my mind is confused as to my duty. I ask Thee: Tell me decisively what is good for me. I am Thy disciple; instruct me, who has taken refuge in Thee.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 55,
+    "chapter": 2,
+    "verse": 8,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna says he can't imagine anything, even ruling the whole earth or the heavens, that would remove this grief burning inside him.",
+    "explanation": "Arjuna expresses the depth of his despair. He says that even gaining unrivaled power on earth, or lordship over the gods themselves, would not be enough to burn away the sorrow consuming him right now.",
+    "lifeLesson": null,
+    "themes": [
+      "suffering",
+      "desire"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "न हि प्रपश्यामि ममापनुद्या\n\nद्यच्छोकमुच्छोषणमिन्द्रियाणाम्।\n\nअवाप्य भूमावसपत्नमृद्धम्\n\nराज्यं सुराणामपि चाधिपत्यम्।।2.8।।\n ",
+      "transliteration": "na hi prapaśhyāmi mamāpanudyād\nyach-chhokam uchchhoṣhaṇam-indriyāṇām\navāpya bhūmāv-asapatnamṛiddhaṁ\nrājyaṁ surāṇāmapi chādhipatyam\n",
+      "translation": "I do not see that this sorrow that burns up my senses would be removed, even if I were to attain prosperous and unrivaled dominion on earth or lordship over the gods.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 56,
+    "chapter": 2,
+    "verse": 9,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Sanjaya reports that after saying this to Krishna, Arjuna declared 'I will not fight' and fell completely silent.",
+    "explanation": "Having said all this to Krishna, Arjuna reaches his final point: he flatly states he will not fight, then falls silent. This marks the end of Arjuna's despair and sets the stage for Krishna's teaching.",
+    "lifeLesson": null,
+    "themes": [
+      "conflict",
+      "suffering"
+    ],
+    "tone": "descriptive",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "सञ्जय उवाच\n\nएवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप।\n\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह।।2.9।।\n ",
+      "transliteration": "sañjaya uvācha\nevam-uktvā hṛiṣhīkeśhaṁ guḍākeśhaḥ parantapa\nna yotsya iti govindam uktvā tūṣhṇīṁ babhūva ha\n",
+      "translation": "Sanjaya said: Having spoken thus to Hrishikesha, the Lord of the senses, Arjuna, the conqueror of sleep and destroyer of foes, said, \"I will not fight,\" and became silent.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 57,
+    "chapter": 2,
+    "verse": 10,
+    "verseType": "narrative",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Sanjaya tells Dhritarashtra that Krishna, smiling, then spoke to the despondent Arjuna standing between the two armies.",
+    "explanation": "Sanjaya notes a striking detail: even as Arjuna sits in despair between the two armies, Krishna responds with a smile before He begins to speak, signaling the wisdom about to be shared.",
+    "lifeLesson": null,
+    "themes": [
+      "compassion",
+      "wisdom"
+    ],
+    "tone": "calm",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "तमुवाच हृषीकेशः प्रहसन्निव भारत।\n\nसेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः।।2.10।।\n ",
+      "transliteration": "tam-uvācha hṛiṣhīkeśhaḥ prahasanniva bhārata\nsenayorubhayor-madhye viṣhīdantam-idaṁ vachaḥ\n",
+      "translation": "To him who was despondent in the midst of the two armies, Krishna, smiling, O Bharata, spoke these words.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 58,
+    "chapter": 2,
+    "verse": 11,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna he grieves for those who don't need grieving, even while sounding wise, since the truly wise grieve for no one.",
+    "explanation": "Krishna begins His teaching with a gentle but pointed correction. He tells Arjuna that his grief, though dressed up in wise-sounding words, is misplaced, because those who truly understand life do not grieve for the living or the dead.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "suffering"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "श्री भगवानुवाच\n\nअशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे।\n\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः।।2.11।।\n ",
+      "transliteration": "śhrī bhagavān uvācha\naśhochyān-anvaśhochas-tvaṁ prajñā-vādānśh cha bhāṣhase\ngatāsūn-agatāsūnśh-cha nānuśhochanti paṇḍitāḥ\n",
+      "translation": "The Blessed Lord said, \"You have grieved for those who should not be grieved for; yet, you speak words of wisdom. The wise grieve neither for the living nor for the dead.\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 59,
+    "chapter": 2,
+    "verse": 12,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says there was never a time He, Arjuna, or these kings did not exist, nor will they ever cease to exist.",
+    "explanation": "Krishna introduces one of the Gita's central ideas: existence itself is continuous. He, Arjuna, and everyone present have always existed in some form, and will continue to exist in the future as well.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "wisdom",
+      "impermanence"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः।\n\nन चैव न भविष्यामः सर्वे वयमतः परम्।।2.12।।\n ",
+      "transliteration": "na tvevāhaṁ jātu nāsaṁ na tvaṁ neme janādhipāḥ\nna chaiva na bhaviṣhyāmaḥ sarve vayamataḥ param\n",
+      "translation": "Nor, at any time, was I not, nor thou, nor these rulers of men; nor, verily, shall we ever cease to be hereafter.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 60,
+    "chapter": 2,
+    "verse": 13,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Just as a person moves through childhood, youth, and old age, the soul moves into another body; the wise don't grieve.",
+    "explanation": "Krishna offers a simple, relatable image: just as the body changes from childhood to old age without the self being lost, the soul similarly moves on to a new body at death. Someone who understands this doesn't grieve over it.",
+    "lifeLesson": "Change of form, whether in age or in death, doesn't have to mean loss of self.",
+    "themes": [
+      "death",
+      "wisdom",
+      "impermanence"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।\n\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।2.13।।\n ",
+      "transliteration": "dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā\ntathā dehāntara-prāptir dhīras tatra na muhyati\n",
+      "translation": "Just as the embodied soul passes through childhood, youth, and old age in this body, so too does it pass into another body; the steadfast one does not grieve over this.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 61,
+    "chapter": 2,
+    "verse": 14,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna that sensations like heat, cold, pleasure, and pain come and go, so he should learn to endure them patiently.",
+    "explanation": "Krishna points out that the sensory experiences of comfort and discomfort are temporary by nature; they arise and pass away. He instructs Arjuna to bear them steadily rather than be shaken by them.",
+    "lifeLesson": "Discomfort and pleasure both pass. Learning to sit with either without being ruled by it builds real steadiness.",
+    "themes": [
+      "impermanence",
+      "discipline",
+      "suffering"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।\n\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।2.14।।\n ",
+      "transliteration": "mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ\nāgamāpāyino ’nityās tans-titikṣhasva bhārata\n",
+      "translation": "The contact of the senses with the objects, O son of Kunti, which causes heat and cold, pleasure and pain, has a beginning and an end; they are impermanent; endure them bravely, O Arjuna.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 62,
+    "chapter": 2,
+    "verse": 15,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the person unaffected by pleasure and pain, treating both the same, becomes fit for true, lasting freedom.",
+    "explanation": "Krishna describes a specific quality of inner strength: someone who remains steady regardless of pleasure or pain becomes capable of reaching a state of lasting peace, described here as immortality.",
+    "lifeLesson": null,
+    "themes": [
+      "self-control",
+      "peace",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ।\n\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते।।2.15।।\n ",
+      "transliteration": "yaṁ hi na vyathayantyete puruṣhaṁ puruṣharṣhabha\nsama-duḥkha-sukhaṁ dhīraṁ so ’mṛitatvāya kalpate\n",
+      "translation": "That firm man, whom surely these afflictions do not, O chief among men, to whom pleasure and pain are the same, is fit for attaining immortality.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 63,
+    "chapter": 2,
+    "verse": 16,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna explains that what is unreal never truly exists, and what is real never stops existing; those with true insight understand this difference.",
+    "explanation": "Krishna draws a clear line between the permanent and the temporary. He says that anything unreal or fleeting has no lasting existence, while what is truly real can never cease to be, a truth seen only by those with deep insight.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "impermanence"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः।\n\nउभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।2.16।।\n ",
+      "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ\nubhayorapi dṛiṣhṭo ’nta stvanayos tattva-darśhibhiḥ\n",
+      "translation": "The unreal has no being; there is no non-being of the real; the truth about both has been seen by the knowers of the truth (or the seers of the essence).",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 64,
+    "chapter": 2,
+    "verse": 17,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says to understand that whatever pervades everything is indestructible, and nothing can destroy that imperishable reality.",
+    "explanation": "Krishna points Arjuna toward the one thing in existence that cannot be destroyed: the essence that pervades everything. Unlike bodies or objects, this underlying reality cannot be ended by anyone or anything.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "impermanence"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्।\n\nविनाशमव्ययस्यास्य न कश्चित् कर्तुमर्हति।।2.17।।\n ",
+      "transliteration": "avināśhi tu tadviddhi yena sarvam idaṁ tatam\nvināśham avyayasyāsya na kaśhchit kartum arhati\n",
+      "translation": "Know that to be indestructible, by which all this is pervaded. No one can cause the destruction of that, the Imperishable.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 65,
+    "chapter": 2,
+    "verse": 18,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna explains that only the body of the eternal soul comes to an end, so he tells Arjuna to go ahead and fight.",
+    "explanation": "Krishna clarifies the distinction between body and soul. The bodies people wear are temporary and will end, but the soul within them is eternal and beyond measure. Because of this, He directly tells Arjuna to fight.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "battle",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः।\n\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत।।2.18।।\n ",
+      "transliteration": "antavanta ime dehā nityasyoktāḥ śharīriṇaḥ\nanāśhino ’prameyasya tasmād yudhyasva bhārata\n",
+      "translation": "These bodies of the embodied Self, which are eternal, indestructible, and immeasurable, are said to have an end. Therefore, fight, O Arjuna.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 66,
+    "chapter": 2,
+    "verse": 19,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says both the one who thinks the soul kills, and the one who thinks it is killed, are mistaken.",
+    "explanation": "Krishna challenges a common misunderstanding. He says that anyone who believes the soul can kill, or that it can be killed, doesn't actually understand its true nature, because the soul is beyond the act of killing altogether.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "wisdom"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्।\n\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते।।2.19।।\n ",
+      "transliteration": "ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam\nubhau tau na vijānīto nāyaṁ hanti na hanyate\n",
+      "translation": "He who takes the Self to be the slayer and he who thinks it is slain, neither of them knows. It does not slay, nor is it slain.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 67,
+    "chapter": 2,
+    "verse": 20,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the soul is never born and never dies; it is unborn, eternal, and unchanging, and remains untouched even when the body dies.",
+    "explanation": "Krishna describes the soul in absolute terms: it has no birth and no death, it does not come into being or cease to exist, and it remains constant and ancient. Even when a body is destroyed, the soul within it is unaffected.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "impermanence",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "न जायते म्रियते वा कदाचि\n\nन्नायं भूत्वा भविता वा न भूयः।\n\nअजो नित्यः शाश्वतोऽयं पुराणो\n\nन हन्यते हन्यमाने शरीरे।।2.20।।\n ",
+      "transliteration": "na jāyate mriyate vā kadāchin\nnāyaṁ bhūtvā bhavitā vā na bhūyaḥ\najo nityaḥ śhāśhvato ’yaṁ purāṇo\nna hanyate hanyamāne śharīre\n",
+      "translation": "It is not born, nor does it ever die; after having been, it again does not cease to be; unborn, eternal, changeless, and ancient, it is not killed when the body is killed.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 68,
+    "chapter": 2,
+    "verse": 21,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna asks Arjuna how someone who truly knows the soul is indestructible and eternal could possibly cause anyone to be killed.",
+    "explanation": "Krishna poses a pointed question: if a person genuinely understands that the soul is unborn and imperishable, how could that same person believe they are capable of killing or causing death at all?",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "death"
+    ],
+    "tone": "questioning",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम्।\n\nकथं स पुरुषः पार्थ कं घातयति हन्ति कम्।।2.21।।\n ",
+      "transliteration": "vedāvināśhinaṁ nityaṁ ya enam ajam avyayam\nkathaṁ sa puruṣhaḥ pārtha kaṁ ghātayati hanti kam\n",
+      "translation": "Whoever knows it to be indestructible, eternal, unborn, and inexhaustible, how can that person slay, O Arjuna, or cause to be slain?",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 69,
+    "chapter": 2,
+    "verse": 22,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Just as a person discards worn-out clothes for new ones, the soul leaves behind an old body and takes on a new one.",
+    "explanation": "Krishna offers one of the Gita's most famous images: death is like changing clothes. Just as a person swaps out worn garments for new ones, the soul simply moves from an old, worn-out body into a new one.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "impermanence"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "वासांसि जीर्णानि यथा विहाय\n\nनवानि गृह्णाति नरोऽपराणि।\n\nतथा शरीराणि विहाय जीर्णा\n\nन्यन्यानि संयाति नवानि देही।।2.22।।\n ",
+      "transliteration": "vāsānsi jīrṇāni yathā vihāya\nnavāni gṛihṇāti naro ’parāṇi\ntathā śharīrāṇi vihāya jīrṇānya\nnyāni sanyāti navāni dehī\n",
+      "translation": "Just as a man casts off worn-out clothes and puts on new ones, so too the embodied Self casts off worn-out bodies and enters others that are new.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 70,
+    "chapter": 2,
+    "verse": 23,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the soul cannot be cut by weapons, burned by fire, soaked by water, or dried out by wind.",
+    "explanation": "Krishna continues describing the soul's indestructible nature using concrete physical examples. No weapon, no fire, no water, and no wind, the forces that destroy ordinary things, can affect it in any way.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः।\n\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः।।2.23।।\n ",
+      "transliteration": "nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ\nna chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ\n",
+      "translation": "Weapons cannot cut it, fire cannot burn it, water cannot wet it, wind cannot dry it.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 71,
+    "chapter": 2,
+    "verse": 24,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the soul cannot be cut, burned, soaked, or dried; it is eternal, everywhere, unmoving, and unchanging.",
+    "explanation": "Krishna reinforces the previous verse, listing the soul's qualities directly: it resists all forms of physical destruction, exists everywhere, remains stable and unmoving, and has always existed.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "impermanence",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च।\n\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः।।2.24।।\n ",
+      "transliteration": "achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha\nnityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ\n",
+      "translation": "This Self cannot be cut, burned, wetted, nor dried up; it is eternal, all-pervasive, stable, immovable, and ancient.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 72,
+    "chapter": 2,
+    "verse": 25,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the soul is unseen, beyond thought, and unchanging, so knowing this, Arjuna has no real reason to grieve.",
+    "explanation": "Krishna concludes this section of teaching by describing the soul as something beyond ordinary perception and thought, and completely unchanging. Given this understanding, He tells Arjuna he has no valid reason left to grieve.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "death"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते।\n\nतस्मादेवं विदित्वैनं नानुशोचितुमर्हसि।।2.25।।\n ",
+      "transliteration": "avyakto ’yam achintyo ’yam avikāryo ’yam uchyate\ntasmādevaṁ viditvainaṁ nānuśhochitum arhasi\n",
+      "translation": "This Self is said to be unmanifested, unthinkable, and unchangeable. Therefore, knowing this to be so, you should not grieve.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 73,
+    "chapter": 2,
+    "verse": 26,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Even if Arjuna believed the soul is constantly born and constantly dying, Krishna says he still shouldn't grieve.",
+    "explanation": "Krishna offers a second angle, in case Arjuna isn't convinced by the previous argument. Even under the alternate belief that the soul is repeatedly born and dies again and again, grief would still not be the right response.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्।\n\nतथापि त्वं महाबाहो नैवं शोचितुमर्हसि।।2.26।।\n ",
+      "transliteration": "atha chainaṁ nitya-jātaṁ nityaṁ vā manyase mṛitam\ntathāpi tvaṁ mahā-bāho naivaṁ śhochitum arhasi\n",
+      "translation": "But even if thou thinkest of It as constantly being born and constantly dying, even then, O mighty-armed one, thou shouldst not grieve.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 74,
+    "chapter": 2,
+    "verse": 27,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna reminds Arjuna that death is certain for the born, and birth is certain for the dead, so don't grieve over the unavoidable.",
+    "explanation": "Krishna states a basic, unavoidable fact of existence: whoever is born will die, and whoever dies will be born again. Since this cycle cannot be changed, he tells Arjuna there's no sense in grieving over it.",
+    "lifeLesson": "Grieving over what is truly unavoidable rarely changes the outcome; it only adds suffering to what already has to be faced.",
+    "themes": [
+      "death",
+      "impermanence"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।\n\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि।।2.27।।\n ",
+      "transliteration": "jātasya hi dhruvo mṛityur dhruvaṁ janma mṛitasya cha\ntasmād aparihārye ’rthe na tvaṁ śhochitum arhasi\n",
+      "translation": "For the born, death is certain, and for the dead, birth is certain; therefore, you should not grieve over the inevitable.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 75,
+    "chapter": 2,
+    "verse": 28,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says beings are unseen before birth, visible in the middle of life, and unseen again after death, so what is there to grieve?",
+    "explanation": "Krishna describes life as a kind of bracket surrounded by mystery: unseen before it starts, briefly visible while it lasts, and unseen again once it ends. Given this pattern, he questions what there really is to mourn.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "impermanence"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत।\n\nअव्यक्तनिधनान्येव तत्र का परिदेवना।।2.28।।\n ",
+      "transliteration": "avyaktādīni bhūtāni vyakta-madhyāni bhārata\navyakta-nidhanānyeva tatra kā paridevanā\n",
+      "translation": "Beings are unmanifest in their beginning, manifest in their middle state, O Arjuna, and unmanifest again in their end. What is there to grieve about?",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 76,
+    "chapter": 2,
+    "verse": 29,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says some see the soul with wonder, some speak of it with wonder, yet even after hearing, hardly anyone understands it.",
+    "explanation": "Krishna acknowledges how mysterious and difficult this subject truly is. People may view it, describe it, or hear about it with a sense of awe, yet genuine understanding of the soul remains rare, even after all that.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "knowledge"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेन\n\nमाश्चर्यवद्वदति तथैव चान्यः।\n\nआश्चर्यवच्चैनमन्यः श्रृणोति\n\nश्रुत्वाप्येनं वेद न चैव कश्चित्।।2.29।।\n ",
+      "transliteration": "āśhcharya-vat paśhyati kaśhchid enan\nāśhcharya-vad vadati tathaiva chānyaḥ\nāśhcharya-vach chainam anyaḥ śhṛiṇoti\nśhrutvāpyenaṁ veda na chaiva kaśhchit\n",
+      "translation": "One sees this (the Self) as a wonder; another speaks of it as a wonder; another hears of it as a wonder; yet, having heard, none understands it at all.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 77,
+    "chapter": 2,
+    "verse": 30,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the soul within every being is always indestructible, so Arjuna should not grieve for any living creature.",
+    "explanation": "Krishna brings this section of teaching to a close with a direct instruction. Because the true self within every being is permanently beyond destruction, He tells Arjuna he has no reason to grieve for any creature at all.",
+    "lifeLesson": null,
+    "themes": [
+      "death",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत।\n\nतस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि।।2.30।।\n ",
+      "transliteration": "dehī nityam avadhyo ’yaṁ dehe sarvasya bhārata\ntasmāt sarvāṇi bhūtāni na tvaṁ śhochitum arhasi\n",
+      "translation": "This indweller in the body of everyone is ever indestructible, O Arjuna; therefore, you should not grieve for any creature.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 78,
+    "chapter": 2,
+    "verse": 31,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna shifts to a new argument, reminding Arjuna of his duty as a warrior, saying nothing is better for a Kshatriya than a righteous battle.",
+    "explanation": "Krishna changes approach, moving from the nature of the soul to Arjuna's specific role in life. As a warrior, he says, there is nothing more fitting or valuable for Arjuna than fighting in a just war.",
+    "lifeLesson": null,
+    "themes": [
+      "duty",
+      "dharma",
+      "battle"
+    ],
+    "tone": "practical",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि।\n\nधर्म्याद्धि युद्धाछ्रेयोऽन्यत्क्षत्रियस्य न विद्यते।।2.31।।\n ",
+      "transliteration": "swa-dharmam api chāvekṣhya na vikampitum arhasi\ndharmyāddhi yuddhāch chhreyo ’nyat kṣhatriyasya na vidyate\n",
+      "translation": "Further, having regard to your duty, you should not waver, for there is nothing higher for a Kshatriya than a righteous war.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 79,
+    "chapter": 2,
+    "verse": 32,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says fortunate are the warriors who get the chance to fight in a battle like an open door to heaven.",
+    "explanation": "Krishna frames the coming battle in a positive light for a warrior like Arjuna. This kind of righteous, unsought war, he says, is a rare opportunity that most warriors would consider fortunate to be given.",
+    "lifeLesson": null,
+    "themes": [
+      "duty",
+      "battle",
+      "purpose"
+    ],
+    "tone": "hopeful",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम्।\n\nसुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्।।2.32।।\n ",
+      "transliteration": "yadṛichchhayā chopapannaṁ swarga-dvāram apāvṛitam\nsukhinaḥ kṣhatriyāḥ pārtha labhante yuddham īdṛiśham\n",
+      "translation": "Happy are the Kshatriyas, O Arjuna! who are called to fight in such a battle that comes of its own accord as an open door to heaven.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 80,
+    "chapter": 2,
+    "verse": 33,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna warns Arjuna that refusing to fight this righteous war means abandoning his duty and reputation, and bringing sin upon himself.",
+    "explanation": "Krishna presents a warning as motivation. If Arjuna chooses not to fight this rightful war, he says Arjuna will fail in his duty, damage his good name, and take on sin as a result.",
+    "lifeLesson": null,
+    "themes": [
+      "duty",
+      "dharma"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अथ चैत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि।\n\nततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि।।2.33।।\n ",
+      "transliteration": "atha chet tvam imaṁ dharmyaṁ saṅgrāmaṁ na kariṣhyasi\ntataḥ sva-dharmaṁ kīrtiṁ cha hitvā pāpam avāpsyasi\n",
+      "translation": "But if you will not fight this righteous war, then having abandoned your own duty and reputation, you will incur sin.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 81,
+    "chapter": 2,
+    "verse": 34,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna that people will forever speak of his dishonor, and for someone once honored, dishonor is worse than death itself.",
+    "explanation": "Krishna continues His warning, pointing to the social consequences of backing out. He says people will always remember and repeat the story of Arjuna's disgrace, and for a man of Arjuna's stature, that kind of shame would hurt more than dying.",
+    "lifeLesson": null,
+    "themes": [
+      "duty",
+      "suffering"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्।\n\nसंभावितस्य चाकीर्तिर्मरणादतिरिच्यते।।2.34।।\n ",
+      "transliteration": "akīrtiṁ chāpi bhūtāni\nkathayiṣhyanti te ’vyayām\nsambhāvitasya chākīrtir\nmaraṇād atirichyate\n",
+      "translation": "People will also recount your everlasting dishonor; and for one who has been honored, dishonor is worse than death.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 82,
+    "chapter": 2,
+    "verse": 35,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the great warriors will assume Arjuna withdrew out of fear, and those who respected him will start thinking less of him.",
+    "explanation": "Krishna spells out how Arjuna's withdrawal would actually be perceived. Fellow warriors, rather than seeing restraint or compassion, would assume cowardice, and the respect Arjuna has earned would quickly turn into contempt.",
+    "lifeLesson": null,
+    "themes": [
+      "fear",
+      "duty"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः।\n\nयेषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्।।2.35।।\n ",
+      "transliteration": "bhayād raṇād uparataṁ mansyante tvāṁ mahā-rathāḥ\nyeṣhāṁ cha tvaṁ bahu-mato bhūtvā yāsyasi lāghavam\n",
+      "translation": "The great chariot-warriors will think that you have withdrawn from the battle out of fear, and you will be held in low esteem by those who have held you in high regard.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 83,
+    "chapter": 2,
+    "verse": 36,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says Arjuna's enemies will mock his abilities and speak many hurtful words, and nothing could be more painful than that.",
+    "explanation": "Krishna adds one more consequence: his enemies would take the opportunity to insult and belittle him publicly. He suggests that this kind of humiliation would be even harder to bear than the pain of battle itself.",
+    "lifeLesson": null,
+    "themes": [
+      "fear",
+      "suffering"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अवाच्यवादांश्च बहून् वदिष्यन्ति तवाहिताः।\n\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्।।2.36।।\n ",
+      "transliteration": "avāchya-vādānśh cha bahūn vadiṣhyanti tavāhitāḥ\nnindantastava sāmarthyaṁ tato duḥkhataraṁ nu kim\n",
+      "translation": "Your enemies, scoffing at your power, will speak many abusive words—what could be more painful than this?",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 84,
+    "chapter": 2,
+    "verse": 37,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna that dying he gains heaven, winning he enjoys the earth, so he should rise and fight with resolve.",
+    "explanation": "Krishna reframes the choice in front of Arjuna as one with no truly bad outcome. Whether he dies in battle or survives victorious, something good awaits him either way, so Krishna urges him to stand and commit to fighting.",
+    "lifeLesson": null,
+    "themes": [
+      "duty",
+      "courage",
+      "battle"
+    ],
+    "tone": "hopeful",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्।\n\nतस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः।।2.37।।\n ",
+      "transliteration": "hato vā prāpsyasi swargaṁ jitvā vā bhokṣhyase mahīm\ntasmād uttiṣhṭha kaunteya yuddhāya kṛita-niśhchayaḥ\n",
+      "translation": "Slain, you will obtain heaven; victorious, you will enjoy the earth; therefore, stand up, O son of Kunti, resolved to fight.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 85,
+    "chapter": 2,
+    "verse": 38,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna to treat pleasure and pain, gain and loss, victory and defeat as equal, and fight simply because it's his duty.",
+    "explanation": "Krishna introduces a key principle: approaching action with equanimity. If Arjuna fights while treating outcomes like pleasure, pain, gain, or loss as equal, and acts purely out of duty, he will not incur sin from the act itself.",
+    "lifeLesson": "Acting from duty rather than from attachment to the outcome is what keeps action from becoming a burden.",
+    "themes": [
+      "duty",
+      "detachment",
+      "peace"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ।\n\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि।।2.38।।\n ",
+      "transliteration": "sukha-duḥkhe same kṛitvā lābhālābhau jayājayau\ntato yuddhāya yujyasva naivaṁ pāpam avāpsyasi\n",
+      "translation": "Having made pleasure and pain, gain and loss, victory and defeat equal, engage in battle for the sake of battle; thus, you shall not incur sin.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 86,
+    "chapter": 2,
+    "verse": 39,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says He has now explained the wisdom of knowledge, and tells Arjuna to listen next to the wisdom of Yoga.",
+    "explanation": "Krishna marks a turning point in His teaching. Having explained the philosophical understanding of the soul, He now shifts to teaching the practical path of Yoga, action performed skillfully, which will free Arjuna from being bound by his actions.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "freedom",
+      "action"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "एषा तेऽभिहिता सांख्ये बुद्धिर्योगे त्विमां श्रृणु।\n\nबुद्ध्यायुक्तो यया पार्थ कर्मबन्धं प्रहास्यसि।।2.39।।\n ",
+      "transliteration": "eṣhā te ’bhihitā sānkhye\nbuddhir yoge tvimāṁ śhṛiṇu\nbuddhyā yukto yayā pārtha\nkarma-bandhaṁ prahāsyasi\n",
+      "translation": "This, which has been taught to you, is wisdom concerning Sankhya. Now listen to wisdom concerning Yoga, endowed with which, O Arjuna, you shall cast off the bonds of action.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 87,
+    "chapter": 2,
+    "verse": 40,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says on this path no effort is wasted; even a small amount of this practice protects one from great fear.",
+    "explanation": "Krishna offers reassurance about starting this path. Unlike many undertakings where effort can be wasted or backfire, even a small step on this path brings real benefit and offers protection from deep fear.",
+    "lifeLesson": "Even a small, sincere effort on the right path is never wasted, however far off the goal may seem.",
+    "themes": [
+      "faith",
+      "wisdom",
+      "fear"
+    ],
+    "tone": "hopeful",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।\n\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्।।2.40।।\n ",
+      "transliteration": "nehābhikrama-nāśho ’sti pratyavāyo na vidyate\nsvalpam apyasya dharmasya trāyate mahato bhayāt\n",
+      "translation": "In this, there is no loss of effort, nor is there any harm produced, nor any transgression. Even a little of this knowledge protects one from great fear.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 88,
+    "chapter": 2,
+    "verse": 41,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says on this path there is one clear, resolved intention, but the minds of the undecided branch out endlessly in many directions.",
+    "explanation": "Krishna contrasts focused determination with indecision. A person walking this path holds a single, clear intention, while someone who hasn't committed ends up with countless scattered, conflicting thoughts pulling them in different directions.",
+    "lifeLesson": null,
+    "themes": [
+      "discipline",
+      "mind",
+      "purpose"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन।\n\nबहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्।।2.41।।\n ",
+      "transliteration": "vyavasāyātmikā buddhir ekeha kuru-nandana\nbahu-śhākhā hyanantāśh cha buddhayo ’vyavasāyinām\n",
+      "translation": "Here, O joy of the Kurus, there is only one single-pointed determination; many-branched and endless are the thoughts of the indecisive.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 89,
+    "chapter": 2,
+    "verse": 42,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna describes people who lack real wisdom, delighting in flowery scriptural language and insisting that nothing beyond it exists.",
+    "explanation": "Krishna begins a gentle critique. He describes a certain kind of person who takes pleasure in elaborate, ornamental religious language, believing that reciting or following such words is the whole of spiritual life, with nothing more to it.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "knowledge"
+    ],
+    "tone": "confronting",
+    "confidence": "medium",
+    "source": {
+      "sanskrit": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः।\n\nवेदवादरताः पार्थ नान्यदस्तीति वादिनः।।2.42।।\n ",
+      "transliteration": "yāmimāṁ puṣhpitāṁ vāchaṁ pravadanty-avipaśhchitaḥ\nveda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ\n",
+      "translation": "The unwise, taking pleasure in the eulogizing words of the Vedas, utter flowery speech, saying, \"There is nothing else,\" O Arjuna.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 90,
+    "chapter": 2,
+    "verse": 43,
+    "verseType": "descriptive",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says these people are driven by desire, chase heaven as their goal, and perform many elaborate rituals aimed at pleasure and power.",
+    "explanation": "Krishna continues describing this mindset. Such people are motivated mainly by personal desire, aiming for heavenly rewards and worldly pleasure and power, and they pursue this through many detailed, ritualistic actions rather than deeper understanding.",
+    "lifeLesson": null,
+    "themes": [
+      "desire",
+      "wisdom"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम्।\n\nक्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति।।2.43।।\n ",
+      "transliteration": "kāmātmānaḥ svarga-parā \n\n janma-karma-phala-pradām\n\n kriyā-viśeṣa-bahulāṁ\n\n bhogaiśvarya-gatiṁ prati\n",
+      "translation": "Full of desires, with heaven as their goal, (they speak words that are directed to ends) leading to new births as the result of their works, and prescribe various methods abounding in specific actions, for the attainment of pleasure and power.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 91,
+    "chapter": 2,
+    "verse": 44,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says those absorbed in pleasure and power, with minds pulled away by such thinking, cannot develop the steady focus needed for meditation.",
+    "explanation": "Krishna explains the cost of this desire-driven mindset. When someone is preoccupied with pleasure and power, their mind can't settle into the kind of clear, resolved focus needed for deep meditation and inner steadiness.",
+    "lifeLesson": null,
+    "themes": [
+      "desire",
+      "mind",
+      "discipline"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम्।\n\nव्यवसायात्मिका बुद्धिः समाधौ न विधीयते।।2.44।।\n ",
+      "transliteration": "bhogaiśwvarya-prasaktānāṁ tayāpahṛita-chetasām\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate\n",
+      "translation": "For those who are attached to pleasure and power, whose minds are drawn away by such teachings, their determinate reason is not formed which is steadily bent on meditation and Samadhi (superconscious state).",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 92,
+    "chapter": 2,
+    "verse": 45,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna to rise above the scriptures' three basic qualities, stay free of opposites, remain steady, and rest in the Self.",
+    "explanation": "Krishna instructs Arjuna to move beyond the surface-level concerns of ritual and reward. Instead, he should aim to stay balanced amid life's opposites, remain grounded in steady goodness, let go of constant acquiring and safeguarding, and rest in the Self.",
+    "lifeLesson": null,
+    "themes": [
+      "self-control",
+      "peace",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन।\n\nनिर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्।।2.45।।\n ",
+      "transliteration": "trai-guṇya-viṣhayā vedā nistrai-guṇyo bhavārjuna\nnirdvandvo nitya-sattva-stho niryoga-kṣhema ātmavān\n",
+      "translation": "The Vedas deal with the three attributes; be thou above these three attributes. O Arjuna, free yourself from the pairs of opposites and ever remain in the quality of Sattva, freed from acquisition and preservation, and be established in the Self.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 93,
+    "chapter": 2,
+    "verse": 46,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says for someone who has realized the Self, scripture is about as useful as a small well beside a great flood.",
+    "explanation": "Krishna uses a vivid comparison to make his point. For a person who has already realized the deeper truth of the Self, following every detail of scripture becomes almost unnecessary, much like a small reservoir loses its purpose when surrounded by a flood.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "knowledge"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "यावानर्थ उदपाने सर्वतः संप्लुतोदके।\n\nतावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः।।2.46।।\n ",
+      "transliteration": "yāvān artha udapāne sarvataḥ samplutodake\ntāvānsarveṣhu vedeṣhu brāhmaṇasya vijānataḥ\n",
+      "translation": "To the Brahmana who has known the Self, all the Vedas are of as much use as a reservoir of water would be in a place where there is a flood.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 94,
+    "chapter": 2,
+    "verse": 47,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna he has a right to act, but never to the results, and shouldn't be motivated by outcomes or avoid action.",
+    "explanation": "Krishna delivers one of the Gita's most famous instructions. Arjuna's responsibility is limited to doing the work itself, not to controlling or claiming its results. He should neither act purely for reward nor use that as an excuse to do nothing.",
+    "lifeLesson": "Focus on doing your part well; the outcome was never fully within your control to begin with.",
+    "themes": [
+      "duty",
+      "action",
+      "detachment"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\n\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।2.47।।\n ",
+      "transliteration": "karmaṇy-evādhikāras te mā phaleṣhu kadāchana\nmā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi\n",
+      "translation": "Your right is only to work, but not to its results; do not let the results of action be your motive, nor let your attachment be to inaction.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 95,
+    "chapter": 2,
+    "verse": 48,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna to act established in yoga, letting go of attachment, treating success and failure equally; that balance is yoga.",
+    "explanation": "Krishna defines Yoga in practical terms here: it is the ability to act with a steady, balanced mind, without clinging to attachment or being shaken by whether things succeed or fail.",
+    "lifeLesson": null,
+    "themes": [
+      "action",
+      "detachment",
+      "peace"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।\n\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते।।2.48।।\n ",
+      "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya\nsiddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate\n",
+      "translation": "Perform action, O Arjuna, being steadfast in Yoga, abandoning attachment and balanced in success and failure; evenness of mind is called Yoga.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 96,
+    "chapter": 2,
+    "verse": 49,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says action alone is far less valuable than acting with steady wisdom, since those driven only by results suffer.",
+    "explanation": "Krishna elevates the importance of inner wisdom over mere activity. Acting without that steady inner awareness is, he says, a lesser path, and he encourages Arjuna to root himself in wisdom rather than chase after results, which he calls a source of suffering.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "desire",
+      "action"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय।\n\nबुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः।।2.49।।\n ",
+      "transliteration": "dūreṇa hy-avaraṁ karma buddhi-yogād dhanañjaya\nbuddhau śharaṇam anvichchha kṛipaṇāḥ phala-hetavaḥ\n",
+      "translation": "Far lower than the Yoga of wisdom is action, O Arjuna. Seek thou refuge in wisdom; wretched are those whose motive is the fruit.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 97,
+    "chapter": 2,
+    "verse": 50,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says a person acting with steady wisdom rises above good and bad deeds alike; Arjuna should aim for this skillful way of acting.",
+    "explanation": "Krishna explains a benefit of acting with wisdom: it allows a person to move beyond being bound by either their good or bad actions. He calls this skillful, balanced way of acting real Yoga.",
+    "lifeLesson": null,
+    "themes": [
+      "action",
+      "wisdom",
+      "freedom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।\n\nतस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।2.50।।\n ",
+      "transliteration": "buddhi-yukto jahātīha ubhe sukṛita-duṣhkṛite\ntasmād yogāya yujyasva yogaḥ karmasu kauśhalam\n",
+      "translation": "Endowed with wisdom and evenness of mind, one casts off in this life both good and evil deeds; therefore, devote yourself to Yoga; Yoga is skill in action.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 98,
+    "chapter": 2,
+    "verse": 51,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the wise, letting go of the results of their actions and freed from rebirth's cycle, reach a state free of suffering.",
+    "explanation": "Krishna describes where this path leads. By releasing their grip on outcomes, wise people are eventually freed from repeated cycles of birth, arriving at a state untouched by suffering or harm.",
+    "lifeLesson": null,
+    "themes": [
+      "freedom",
+      "wisdom",
+      "peace"
+    ],
+    "tone": "hopeful",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः।\n\nजन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्।।2.51।।\n ",
+      "transliteration": "karma-jaṁ buddhi-yuktā hi phalaṁ tyaktvā manīṣhiṇaḥ\njanma-bandha-vinirmuktāḥ padaṁ gachchhanty-anāmayam\n",
+      "translation": "The wise, possessing knowledge, having abandoned the fruits of their actions, and being freed from the bonds of birth, go to the place which is beyond all evil.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 99,
+    "chapter": 2,
+    "verse": 52,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna that once his mind moves past confusion, he will become indifferent to everything he has heard or has yet to hear.",
+    "explanation": "Krishna reassures Arjuna about the clarity waiting ahead. Once his intellect works through the current confusion, he'll reach a place where even scriptural debates and accumulated knowledge lose their grip on him.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "mind",
+      "peace"
+    ],
+    "tone": "hopeful",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति।\n\nतदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च।।2.52।।\n ",
+      "transliteration": "yadā te moha-kalilaṁ buddhir vyatitariṣhyati\ntadā gantāsi nirvedaṁ śhrotavyasya śhrutasya cha\n",
+      "translation": "When your intellect passes beyond the mire of delusion, then you will attain indifference to what has been heard and what has yet to be heard.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 100,
+    "chapter": 2,
+    "verse": 53,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says once Arjuna's mind stops being pulled around by conflicting scriptures and becomes steady and unshaken, he will attain true inner union.",
+    "explanation": "Krishna describes the final stage of this inner steadiness: when the mind, once confused by competing teachings, finally settles into an unwavering, focused state, that stillness itself is what leads to Self-realization.",
+    "lifeLesson": null,
+    "themes": [
+      "mind",
+      "peace",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला।\n\nसमाधावचला बुद्धिस्तदा योगमवाप्स्यसि।।2.53।।\n ",
+      "transliteration": "śhruti-vipratipannā te yadā sthāsyati niśhchalā\nsamādhāv-achalā buddhis tadā yogam avāpsyasi\n",
+      "translation": "When your intellect, which is perplexed by the Vedic texts you have read, stands immovable and steady in the Self, then you will attain Self-realization.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 101,
+    "chapter": 2,
+    "verse": 54,
+    "verseType": "question",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Arjuna asks Krishna how a person of steady wisdom, absorbed in deep inner stillness, actually speaks, sits, and moves through the world.",
+    "explanation": "Curious and engaged now, Arjuna asks a very practical question. He wants to know what a person with steady, unshaken wisdom actually looks like in daily life, how they talk, sit, and act.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "peace"
+    ],
+    "tone": "questioning",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "अर्जुन उवाच\n\nस्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव।\n\nस्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्।।2.54।।\n ",
+      "transliteration": "arjuna uvācha\nsthita-prajñasya kā bhāṣhā samādhi-sthasya keśhava\nsthita-dhīḥ kiṁ prabhāṣheta kim āsīta vrajeta kim\n",
+      "translation": "Arjuna said, \"O Krishna, what is the description of one who has steady wisdom and is merged in the superconscious state? How does one of steady wisdom speak, how do they sit, and how do they walk?\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 102,
+    "chapter": 2,
+    "verse": 55,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says a person is called steady in wisdom when they let go of every mental desire and find contentment in the Self alone.",
+    "explanation": "Krishna begins to answer Arjuna's question directly. He defines a person of steady wisdom as someone who has released all mental cravings and finds complete satisfaction from within, rather than from anything outside.",
+    "lifeLesson": null,
+    "themes": [
+      "desire",
+      "peace",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "श्री भगवानुवाच\n\nप्रजहाति यदा कामान् सर्वान् पार्थ मनोगतान्।\n\nआत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते।।2.55।।\n ",
+      "transliteration": "śhrī bhagavān uvācha\nprajahāti yadā kāmān sarvān pārtha mano-gatān\nātmany-evātmanā tuṣhṭaḥ sthita-prajñas tadochyate\n",
+      "translation": "The Blessed Lord said, \"When a man completely casts off, O Arjuna, all the desires of the mind and is satisfied in the Self by the Self, then he is said to be one of steady wisdom.\"",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 103,
+    "chapter": 2,
+    "verse": 56,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna describes the steady sage as someone unshaken by hardship, uninterested in chasing pleasure, and free from attachment, fear, and anger.",
+    "explanation": "Krishna continues the description. This person remains calm when facing difficulty, doesn't crave pleasure, and has moved beyond the grip of attachment, fear, and anger, qualities most people struggle with constantly.",
+    "lifeLesson": null,
+    "themes": [
+      "self-control",
+      "fear",
+      "peace"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।\n\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते।।2.56।।\n ",
+      "transliteration": "duḥkheṣhv-anudvigna-manāḥ sukheṣhu vigata-spṛihaḥ\nvīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate\n",
+      "translation": "He whose mind is not shaken by adversity, who does not long for pleasures, and is free from attachment, fear, and anger, is called a sage of steady wisdom.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 104,
+    "chapter": 2,
+    "verse": 57,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says someone unattached everywhere, who neither celebrates good fortune nor resents bad, has firmly established wisdom.",
+    "explanation": "Krishna adds another marker of steady wisdom: emotional balance in the face of both good and bad outcomes. This person doesn't get swept up in either happiness or resentment when life brings favorable or unfavorable events.",
+    "lifeLesson": null,
+    "themes": [
+      "detachment",
+      "peace",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्।\n\nनाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता।।2.57।।\n ",
+      "transliteration": "yaḥ sarvatrānabhisnehas tat tat prāpya śhubhāśhubham\nnābhinandati na dveṣhṭi tasya prajñā pratiṣhṭhitā\n",
+      "translation": "He who is everywhere without attachment, upon encountering anything good or bad, neither rejoices nor hastens; his wisdom is firm.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 105,
+    "chapter": 2,
+    "verse": 58,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Just as a tortoise pulls all its limbs inward, the wise person withdraws their senses from external objects, and that's when their wisdom becomes steady.",
+    "explanation": "Krishna offers another memorable image: the tortoise drawing its limbs into its shell. In the same way, a person of steady wisdom can pull their senses back from external distractions whenever needed, keeping their inner focus intact.",
+    "lifeLesson": null,
+    "themes": [
+      "self-control",
+      "mind",
+      "discipline"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।\n\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता।।2.58।।\n ",
+      "transliteration": "yadā sanharate chāyaṁ kūrmo ’ṅgānīva sarvaśhaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā\n",
+      "translation": "When, like the tortoise which withdraws all its limbs on all sides, he withdraws his senses from the sense-objects, then his wisdom becomes steady.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 106,
+    "chapter": 2,
+    "verse": 59,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Even when a person stops indulging the senses, some longing can remain, but that longing too fades once they experience something greater.",
+    "explanation": "Krishna notes a subtlety: simply avoiding sense objects doesn't fully remove the underlying craving for them. That craving only truly dissolves once a person experiences the deeper reality of the Self.",
+    "lifeLesson": null,
+    "themes": [
+      "desire",
+      "self-control",
+      "wisdom"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "विषया विनिवर्तन्ते निराहारस्य देहिनः।\n\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते।।2.59।।\n ",
+      "transliteration": "viṣhayā vinivartante nirāhārasya dehinaḥ\nrasa-varjaṁ raso ’pyasya paraṁ dṛiṣhṭvā nivartate\n",
+      "translation": "The objects of the senses turn away from the abstinent man, leaving the longing behind; but his longing also turns away upon seeing the Supreme.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 107,
+    "chapter": 2,
+    "verse": 60,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna warns that even a wise person who is trying hard can have their mind forcefully swept away by the restless senses.",
+    "explanation": "Krishna gives an honest warning here. Even someone sincerely working toward self-control isn't immune; the senses are powerful enough that they can still overwhelm and drag away the mind despite one's best efforts.",
+    "lifeLesson": null,
+    "themes": [
+      "self-control",
+      "mind",
+      "discipline"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः।\n\nइन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः।।2.60।।\n ",
+      "transliteration": "yatato hyapi kaunteya puruṣhasya vipaśhchitaḥ\nindriyāṇi pramāthīni haranti prasabhaṁ manaḥ\n",
+      "translation": "The turbulent senses, O Arjuna, can violently carry away the mind of a wise person, even though they are striving to control them.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 108,
+    "chapter": 2,
+    "verse": 61,
+    "verseType": "instruction",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna to bring all the senses under control and sit focused on Him, since wisdom is steady for one whose senses are mastered.",
+    "explanation": "Krishna offers the solution to the previous verse's warning. He instructs Arjuna to actively restrain his senses and stay centered on Him. This kind of mastery over the senses is what keeps wisdom firm and unshaken.",
+    "lifeLesson": null,
+    "themes": [
+      "self-control",
+      "discipline",
+      "faith"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः।\n\nवशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता।।2.61।।\n ",
+      "transliteration": "tāni sarvāṇi sanyamya yukta āsīta mat-paraḥ\nvaśhe hi yasyendriyāṇi tasya prajñā pratiṣhṭhitā\n",
+      "translation": "Having restrained them all, he should sit steadfast, intent on Me; his wisdom is steady whose senses are under control.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 109,
+    "chapter": 2,
+    "verse": 62,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna explains that dwelling on objects creates attachment to them, attachment gives rise to desire, and desire, when blocked, turns into anger.",
+    "explanation": "Krishna lays out a cause-and-effect chain that begins with something as ordinary as thinking about an object. That simple act of dwelling on something can quietly grow into attachment, then desire, and eventually anger.",
+    "lifeLesson": "Notice where a chain reaction of frustration actually starts; often it traces back to simply dwelling too long on something.",
+    "themes": [
+      "desire",
+      "anger",
+      "mind"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।\n\nसङ्गात् संजायते कामः कामात्क्रोधोऽभिजायते।।2.62।।\n ",
+      "transliteration": "dhyāyato viṣhayān puṁsaḥ saṅgas teṣhūpajāyate\nsaṅgāt sañjāyate kāmaḥ kāmāt krodho ’bhijāyate\n",
+      "translation": "When one thinks of objects, attachment to them arises; from attachment, desire is born; from desire, anger arises.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 110,
+    "chapter": 2,
+    "verse": 63,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna continues the chain: anger causes confusion, confusion causes memory to fail, and losing memory destroys judgment, which then ruins a person entirely.",
+    "explanation": "Krishna finishes the chain of decline he began in the previous verse. Anger clouds clear thinking, clouded thinking erodes memory, and once memory and judgment break down, a person is left without any real direction at all.",
+    "lifeLesson": null,
+    "themes": [
+      "anger",
+      "mind",
+      "suffering"
+    ],
+    "tone": "confronting",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः।\n\nस्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति।।2.63।।\n ",
+      "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛiti-vibhramaḥ\nsmṛiti-bhranśhād buddhi-nāśho buddhi-nāśhāt praṇaśhyati\n",
+      "translation": "Anger leads to delusion, which causes loss of memory; this, in turn, leads to the destruction of discrimination, resulting in destruction.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 111,
+    "chapter": 2,
+    "verse": 64,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says a self-controlled person, moving through the world with restrained senses and free from attraction and aversion, attains genuine inner peace.",
+    "explanation": "Krishna offers the counterpoint to the destructive chain reaction. A person who engages with the world using disciplined senses, without being pulled by likes and dislikes, arrives instead at real peace of mind.",
+    "lifeLesson": null,
+    "themes": [
+      "self-control",
+      "peace",
+      "discipline"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन्।\n\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति।।2.64।।\n ",
+      "transliteration": "rāga-dveṣha-viyuktais tu viṣhayān indriyaiśh charan\nātma-vaśhyair-vidheyātmā prasādam adhigachchhati\n",
+      "translation": "But the self-controlled man, moving among objects with the senses restrained and free from attraction and repulsion, attains peace.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 112,
+    "chapter": 2,
+    "verse": 65,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says in that state of peace, all suffering ends, since the mind of someone truly tranquil quickly becomes steady and clear.",
+    "explanation": "Krishna describes the reward of that hard-won peace: once it's reached, sorrow simply dissolves, and a tranquil mind naturally settles into steadiness without much further effort.",
+    "lifeLesson": null,
+    "themes": [
+      "peace",
+      "suffering"
+    ],
+    "tone": "hopeful",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते।\n\nप्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते।।2.65।।\n ",
+      "transliteration": "prasāde sarva-duḥkhānāṁ hānir asyopajāyate\nprasanna-chetaso hyāśhu buddhiḥ paryavatiṣhṭhate\n",
+      "translation": "In that peace, all pains are destroyed; for the intellect of the tranquil-minded soon becomes steady.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 113,
+    "chapter": 2,
+    "verse": 66,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says a scattered, undisciplined mind has no real wisdom or focus, and without peace, there can be no true happiness.",
+    "explanation": "Krishna underlines why inner discipline matters so much. Without a settled mind, real understanding isn't possible, and without that understanding, there's no lasting peace, and without peace, genuine happiness simply can't exist.",
+    "lifeLesson": null,
+    "themes": [
+      "mind",
+      "peace",
+      "discipline"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना।\n\nन चाभावयतः शान्तिरशान्तस्य कुतः सुखम्।।2.66।।\n ",
+      "transliteration": "nāsti buddhir-ayuktasya na chāyuktasya bhāvanā\nna chābhāvayataḥ śhāntir aśhāntasya kutaḥ sukham\n",
+      "translation": "There is no knowledge of the Self for the unsteady, and no meditation is possible for the unsteady, and no peace for the unmeditative, and how can there be happiness for one who has no peace?",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 114,
+    "chapter": 2,
+    "verse": 67,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the mind following the wandering senses drags away a person's judgment, the way wind drags a boat off course.",
+    "explanation": "Krishna offers a vivid sailing metaphor. Just as a strong wind can push a boat far off its intended path, a mind that keeps chasing after the senses can just as easily carry away a person's clear judgment.",
+    "lifeLesson": null,
+    "themes": [
+      "mind",
+      "self-control"
+    ],
+    "tone": "reflective",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते।\n\nतदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि।।2.67।।\n ",
+      "transliteration": "indriyāṇāṁ hi charatāṁ yan mano ’nuvidhīyate\ntadasya harati prajñāṁ vāyur nāvam ivāmbhasi\n",
+      "translation": "For the mind, which follows in the wake of the wandering senses, carries away his discrimination, as the wind carries away a boat on the waters.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 115,
+    "chapter": 2,
+    "verse": 68,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna tells Arjuna that whoever keeps their senses completely restrained from sense objects has truly steady wisdom.",
+    "explanation": "Krishna restates the core principle clearly: real, unshakeable wisdom belongs to the person who has learned to fully hold their senses back from constantly chasing after external objects.",
+    "lifeLesson": null,
+    "themes": [
+      "self-control",
+      "wisdom",
+      "discipline"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः।\n\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता।।2.68।।\n ",
+      "transliteration": "tasmād yasya mahā-bāho nigṛihītāni sarvaśhaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā\n",
+      "translation": "Therefore, O mighty-armed Arjuna, his knowledge is steady whose senses are completely restrained from sense objects.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 116,
+    "chapter": 2,
+    "verse": 69,
+    "verseType": "philosophical",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says what feels like night to most is when the disciplined person is awake, and what others wake to is night to the wise.",
+    "explanation": "Krishna points to a striking reversal in perspective. What ordinary people are absorbed in during their waking lives is, in a sense, unseen and dark to the wise, while the deeper reality the wise are attuned to remains hidden from everyone else.",
+    "lifeLesson": null,
+    "themes": [
+      "wisdom",
+      "knowledge"
+    ],
+    "tone": "paradoxical",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी।\n\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः।।2.69।।\n ",
+      "transliteration": "yā niśhā sarva-bhūtānāṁ tasyāṁ jāgarti sanyamī\nyasyāṁ jāgrati bhūtāni sā niśhā paśhyato muneḥ\n",
+      "translation": "That which is night to all beings, in that the self-controlled man is awake; when all beings are awake, that is night for the sage who sees.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 117,
+    "chapter": 2,
+    "verse": 70,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna compares a peaceful person to the ocean, staying full and unmoved as rivers flow in; only someone free of craving finds peace.",
+    "explanation": "Krishna uses the image of the ocean absorbing countless rivers without ever overflowing or being disturbed. In the same way, a peaceful person can let all desires arrive without being shaken, unlike someone constantly chasing after them.",
+    "lifeLesson": null,
+    "themes": [
+      "desire",
+      "peace",
+      "detachment"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं\n\nसमुद्रमापः प्रविशन्ति यद्वत्।\n\nतद्वत्कामा यं प्रविशन्ति सर्वे\n\nस शान्तिमाप्नोति न कामकामी।।2.70।।\n ",
+      "transliteration": "āpūryamāṇam achala-pratiṣhṭhaṁ\nsamudram āpaḥ praviśhanti yadvat\ntadvat kāmā yaṁ praviśhanti sarve\nsa śhāntim āpnoti na kāma-kāmī\n",
+      "translation": "He attains peace into whom all desires enter, just as waters enter the ocean which, filled from all sides, remains unmoved; but not the man who is full of desires.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 118,
+    "chapter": 2,
+    "verse": 71,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna says the person who lets go of all desires, moving through life without craving, ownership, or ego, finds true peace.",
+    "explanation": "Krishna offers a summary description of what leads to lasting peace: releasing personal desires, giving up the sense of owning things, and letting go of ego, all working together to bring someone to a genuinely peaceful state.",
+    "lifeLesson": null,
+    "themes": [
+      "desire",
+      "ego",
+      "peace"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः।\n\nनिर्ममो निरहंकारः स शांतिमधिगच्छति।।2.71।।\n ",
+      "transliteration": "vihāya kāmān yaḥ sarvān pumānśh charati niḥspṛihaḥ\nnirmamo nirahankāraḥ sa śhāntim adhigachchhati\n",
+      "translation": "That person attains peace who, abandoning all desires, moves about without longing, without the sense of ownership, and without egoism.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  },
+  {
+    "verse_order": 119,
+    "chapter": 2,
+    "verse": 72,
+    "verseType": "teaching",
+    "hook": null,
+    "hookType": "none",
+    "simpleVersion": "Krishna closes: this eternal, divine state, once reached, ends confusion for good, even at the moment of death.",
+    "explanation": "Krishna concludes his teaching for this chapter. He calls the state he has been describing the highest, divine condition, one that, once attained, removes all confusion permanently, allowing a person to merge fully with the ultimate reality even in their final moment.",
+    "lifeLesson": null,
+    "themes": [
+      "peace",
+      "death",
+      "wisdom"
+    ],
+    "tone": "grounding",
+    "confidence": "high",
+    "source": {
+      "sanskrit": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति।\n\nस्थित्वाऽस्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति।।2.72।।\n ",
+      "transliteration": "eṣhā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati\nsthitvāsyām anta-kāle ’pi brahma-nirvāṇam ṛichchhati\n",
+      "translation": "O son of Pritha, this is the eternal state, the Brahmic seat. Attaining this, one is not deluded. Being established in it, one attains oneness with Brahman even at the end of life.",
+      "translator": "Swami Sivananda"
+    },
+    "aiGenerated": true,
+    "reviewed": false,
+    "generatedAt": "2026-08-14T10:00:00.000Z"
+  }
+]

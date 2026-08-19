@@ -1,28 +1,435 @@
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 60px;
-    background: #111827;
-    box-shadow: 0 2px 15px rgba(0,0,0,0.4);
+/* ================================
+   NAVBAR
+================================ */
+
+nav.navbar {
+  width: calc(100% - 32px);
+  max-width: 1400px;
+
+  min-height: 68px;
+
+  margin: 16px auto;
+
+  padding: 0 18px;
+
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+
+  justify-content: space-between;
+
+  gap: 24px;
+
+  background: rgba(15, 23, 42, 0.94);
+
+  border: 1px solid rgba(148, 163, 184, 0.16);
+
+  border-radius: 18px;
+
+  backdrop-filter: blur(18px);
+
+  -webkit-backdrop-filter: blur(18px);
+
+  box-shadow:
+    0 10px 35px rgba(0, 0, 0, 0.22);
+
+  position: relative;
+
+  z-index: 100;
+}
+
+
+/* ================================
+   LOGO
+================================ */
+
+nav.navbar .logo {
+  display: flex;
+
+  align-items: center;
+
+  gap: 9px;
+
+  flex-shrink: 0;
+
+  color: #f8fafc;
+
+  text-decoration: none;
+
+  font-size: 18px;
+
+  font-weight: 700;
+
+  letter-spacing: -0.3px;
+
+  white-space: nowrap;
+}
+
+.logo-icon {
+  width: 34px;
+  height: 34px;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  background: rgba(245, 158, 11, 0.14);
+
+  border-radius: 9px;
+
+  font-size: 18px;
+}
+
+
+/* ================================
+   NAV LINKS
+================================ */
+
+nav.navbar .links {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  gap: 6px;
+
+  flex: 1;
+
+  min-width: 0;
+}
+
+nav.navbar .links > a {
+  padding: 9px 12px;
+
+  border-radius: 9px;
+
+  color: #cbd5e1;
+
+  text-decoration: none;
+
+  font-size: 14px;
+
+  font-weight: 500;
+
+  white-space: nowrap;
+
+  transition:
+    color 0.2s ease,
+    background 0.2s ease;
+}
+
+nav.navbar .links > a:hover {
+  color: #ffffff;
+
+  background: rgba(255, 255, 255, 0.07);
+}
+
+
+/* ================================
+   RIGHT SIDE
+================================ */
+
+.navbar-right {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: flex-end;
+
+  gap: 12px;
+
+  flex-shrink: 0;
+}
+
+
+/* ================================
+   USER
+================================ */
+
+.navbar-user {
+  display: flex;
+
+  align-items: center;
+
+  gap: 9px;
+
+  min-width: 0;
+
+  padding: 5px 8px;
+
+  border-radius: 12px;
+
+  background: rgba(
+    255,
+    255,
+    255,
+    0.035
+  );
+}
+
+
+/* ================================
+   AVATAR
+================================ */
+
+.navbar-avatar,
+.navbar-avatar-placeholder {
+  width: 36px;
+  height: 36px;
+
+  flex: 0 0 36px;
+
+  border-radius: 50%;
+
+  object-fit: cover;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  box-sizing: border-box;
+}
+
+.navbar-avatar {
+  border: 2px solid
+    rgba(255, 255, 255, 0.16);
+
+  background: #1e293b;
+}
+
+.navbar-avatar-placeholder {
+  background: #334155;
+
+  color: #ffffff;
+
+  font-size: 14px;
+
+  font-weight: 700;
+}
+
+
+/* ================================
+   USER TEXT
+================================ */
+
+.navbar-user-info {
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+
+  min-width: 0;
+
+  max-width: 145px;
+}
+
+.navbar-user-name {
+  color: #f8fafc;
+
+  font-size: 13px;
+
+  font-weight: 600;
+
+  line-height: 1.2;
+
+  white-space: nowrap;
+
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+}
+
+.navbar-user-email {
+  margin-top: 2px;
+
+  color: #94a3b8;
+
+  font-size: 11px;
+
+  line-height: 1.2;
+
+  white-space: nowrap;
+
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+}
+
+
+/* ================================
+   LOGOUT
+================================ */
+
+nav.navbar .logout-btn {
+  height: 38px;
+
+  padding: 0 14px;
+
+  border-radius: 9px;
+
+  border: 1px solid
+    rgba(148, 163, 184, 0.22);
+
+  background: transparent;
+
+  color: #e2e8f0;
+
+  font-size: 13px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  white-space: nowrap;
+
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease;
+}
+
+nav.navbar .logout-btn:hover {
+  background: rgba(
+    239,
+    68,
+    68,
+    0.1
+  );
+
+  border-color: rgba(
+    239,
+    68,
+    68,
+    0.3
+  );
+
+  color: #fca5a5;
+}
+
+
+/* ================================
+   TABLET
+================================ */
+
+@media (max-width: 1050px) {
+
+  nav.navbar {
+    gap: 12px;
   }
-  
-  .logo {
-    font-size: 28px;
-    font-weight: bold;
+
+  nav.navbar .links {
+    gap: 2px;
   }
-  
-  .links {
-    display: flex;
-    gap: 30px;
+
+  nav.navbar .links > a {
+    padding: 8px 8px;
+
+    font-size: 13px;
   }
-  
-  .links a {
-    color: white;
-    text-decoration: none;
-    transition: 0.3s;
+
+  .navbar-user-info {
+    display: none;
   }
-  
-  .links a:hover {
-    color: #3b82f6;
+
+  .navbar-user {
+    padding: 4px;
+    background: transparent;
   }
+}
+
+
+/* ================================
+   MOBILE
+================================ */
+
+@media (max-width: 720px) {
+
+  nav.navbar {
+    width: calc(100% - 20px);
+
+    margin: 10px auto;
+
+    min-height: 60px;
+
+    padding: 0 10px;
+
+    gap: 8px;
+
+    border-radius: 15px;
+  }
+
+  nav.navbar .logo span:last-child {
+    display: none;
+  }
+
+  .logo-icon {
+    width: 34px;
+    height: 34px;
+  }
+
+  nav.navbar .links {
+    overflow-x: auto;
+
+    justify-content: flex-start;
+
+    scrollbar-width: none;
+  }
+
+  nav.navbar .links::-webkit-scrollbar {
+    display: none;
+  }
+
+  nav.navbar .links > a {
+    padding: 8px 7px;
+
+    font-size: 12px;
+  }
+
+  .navbar-right {
+    gap: 6px;
+  }
+
+  .navbar-avatar,
+  .navbar-avatar-placeholder {
+    width: 32px;
+    height: 32px;
+
+    flex-basis: 32px;
+  }
+
+  nav.navbar .logout-btn {
+    height: 34px;
+
+    padding: 0 9px;
+
+    font-size: 12px;
+  }
+}
+
+
+/* ================================
+   VERY SMALL SCREEN
+================================ */
+
+@media (max-width: 500px) {
+
+  nav.navbar .links > a:nth-child(4) {
+    display: none;
+  }
+
+  nav.navbar .links > a {
+    font-size: 11px;
+
+    padding: 7px 6px;
+  }
+
+  .navbar-right .navbar-user {
+    display: none;
+  }
+}

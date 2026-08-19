@@ -1,0 +1,163 @@
+.explore-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 70px 30px;
+  color: white;
+}
+
+/* HEADER */
+
+.explore-header {
+  margin-bottom: 40px;
+}
+
+.explore-label {
+  margin: 0 0 14px;
+  color: #f59e0b;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.explore-header h1 {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.explore-subtitle {
+  margin-top: 12px;
+  color: #9ca3af;
+  font-size: 18px;
+}
+
+/* CATEGORIES */
+
+.explore-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 42px;
+}
+
+.explore-category {
+  padding: 10px 18px;
+  background: #111827;
+  border: 1px solid #374151;
+  border-radius: 999px;
+  color: #9ca3af;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.explore-category:hover {
+  color: white;
+  border-color: #6b7280;
+}
+
+.explore-category.active {
+  background: #f59e0b;
+  border-color: #f59e0b;
+  color: #111827;
+}
+
+/* GRID */
+
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+
+/* CARD */
+
+.explore-card {
+  padding: 28px;
+  background: #1f2937;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 20px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+  transition:
+    transform 0.2s,
+    border-color 0.2s;
+}
+
+.explore-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(245, 158, 11, 0.3);
+}
+
+/* CARD TOP */
+
+.explore-card-top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 22px;
+  color: #f59e0b;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.explore-card-top span:last-child {
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* QUOTE */
+
+.explore-quote {
+  margin: 0;
+  color: #f3f4f6;
+  font-size: 21px;
+  line-height: 1.55;
+  font-weight: 600;
+}
+
+.explore-author {
+  margin-top: 24px;
+  color: #9ca3af;
+  font-size: 14px;
+}
+
+/* EMPTY */
+
+.explore-empty {
+  grid-column: 1 / -1;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.explore-empty h2 {
+  margin-bottom: 8px;
+}
+
+.explore-empty p {
+  color: #6b7280;
+}
+
+/* MOBILE */
+
+@media (max-width: 700px) {
+  .explore-page {
+    padding: 40px 18px;
+  }
+
+  .explore-header h1 {
+    font-size: 38px;
+  }
+
+  .explore-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .explore-card {
+    padding: 24px;
+  }
+
+  .explore-quote {
+    font-size: 19px;
+  }
+}

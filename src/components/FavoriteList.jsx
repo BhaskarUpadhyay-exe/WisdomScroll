@@ -1,66 +1,69 @@
+import "./FavoriteList.css";
+
 function FavoriteList({ favorites, removeFavorite }) {
   if (favorites.length === 0) {
     return (
-      <div
-        style={{
-          textAlign: "center",
-          marginTop: "50px",
-          color: "#9CA3AF",
-        }}
-      >
-        <h2>❤️ Your Favorite Quotes</h2>
+      <section className="saved-section">
 
-        <p>No favorite quotes yet.</p>
-      </div>
+        <h2 className="saved-title">
+          Saved Wisdom
+        </h2>
+
+        <p className="saved-subtitle">
+          Save reflections that inspire you.
+          They'll appear here.
+        </p>
+
+      </section>
     );
   }
 
   return (
-    <div
-      style={{
-        maxWidth: "900px",
-        margin: "60px auto",
-      }}
-    >
-      <h2
-        style={{
-          textAlign: "center",
-          color: "white",
-        }}
-      >
-        ❤️ Your Favorite Quotes
+    <section className="saved-section">
+
+      <h2 className="saved-title">
+        Saved Wisdom
       </h2>
 
-      {favorites.map((item) => (
-        <div
-          key={item.text}
-          style={{
-            background: "#1F2937",
-            padding: "20px",
-            borderRadius: "15px",
-            marginBottom: "20px",
-          }}
-        >
-          <h3 style={{ color: "#60A5FA" }}>
-            {item.author}
-          </h3>
+      <p className="saved-subtitle">
+        Your personal collection of timeless reflections.
+      </p>
 
-          <p style={{ color: "white" }}>
-            {item.text}
-          </p>
+      <div className="saved-grid">
 
-          <p style={{ color: "#9CA3AF" }}>
-            {item.category}
-          </p>
+        {favorites.map((item) => (
 
-          <button
-            onClick={() => removeFavorite(item)}
+          <div
+            key={item.text}
+            className="saved-card"
           >
-            🗑 Remove
-          </button>
-        </div>
-      ))}
-    </div>
+
+            <h3 className="saved-author">
+              {item.author}
+            </h3>
+
+            <p className="saved-text">
+              "{item.text}"
+            </p>
+
+            <p className="saved-category">
+              {item.category}
+            </p>
+
+            <button
+              className="remove-btn"
+              onClick={() => removeFavorite(item)}
+            >
+              Remove
+            </button>
+
+          </div>
+
+        ))}
+
+      </div>
+
+    </section>
   );
 }
 

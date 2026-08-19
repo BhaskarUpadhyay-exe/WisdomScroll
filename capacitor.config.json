@@ -1,5 +1,13 @@
 {
   "appId": "com.upadhyay.wisdomscroll",
   "appName": "WisdomScroll",
-  "webDir": "dist"
+  "webDir": "dist",
+  "plugins": {
+    "FirebaseAuthentication": {
+      "skipNativeAuth": false,
+      "providers": [
+        "google.com"
+      ]
+    }
+  }
 }

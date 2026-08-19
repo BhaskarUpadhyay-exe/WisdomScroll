@@ -1,0 +1,99 @@
+.chat-row{
+    display:flex;
+    margin:18px 0;
+}
+
+.chat-row.user{
+    justify-content:flex-end;
+}
+
+.chat-row.ai{
+    justify-content:flex-start;
+    width:100%;
+}
+
+.chat-bubble{
+    max-width:900px;
+
+width:fit-content;
+
+    background:#2B2C2F;
+
+    padding:18px 22px;
+
+    border-radius:22px;
+
+    line-height:1.9;
+
+    font-size:17px;
+
+    color:white;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.25);
+
+    animation:fadeIn .25s ease;
+}
+
+.user .chat-bubble{
+
+    background:#3A3A3A;
+
+}
+
+.chat-name{
+
+    color:var(--accent);
+
+    font-weight:bold;
+
+    margin-bottom:12px;
+
+    font-size:14px;
+
+}
+
+.copy-btn{
+    margin-top:14px;
+
+    background:none;
+    border:none;
+
+    color:#888;
+
+    cursor:pointer;
+
+    font-size:13px;
+
+    transition:.25s;
+
+    padding:0;
+}
+
+.copy-btn:hover{
+    color:var(--accent);
+}
+.copy-btn:hover{
+
+    color:var(--accent);
+
+}
+
+@keyframes fadeIn{
+
+from{
+
+opacity:0;
+
+transform:translateY(10px);
+
+}
+
+to{
+
+opacity:1;
+
+transform:translateY(0);
+
+}
+
+}

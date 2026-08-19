@@ -1,93 +1,197 @@
 import { useState, useEffect } from "react";
-import quotes from "../data/quotes";
 
 function useQuotes() {
-  const [quote, setQuote] = useState(quotes[0]);
+  const [quote, setQuote] = useState({
+    text: "The secret of getting ahead is getting started.",
+    author: "Mark Twain",
+    category: "Wisdom",
+  });
+
   const [quoteCount, setQuoteCount] = useState(1);
 
   const [loading, setLoading] = useState(false);
+
   const [copied, setCopied] = useState(false);
-const [favorites, setFavorites] = useState(() => {
-  const saved = localStorage.getItem("favorites");
-  return saved ? JSON.parse(saved) : [];
-});
-  const getRandomQuote = () => {
-    const randomIndex = Math.floor(Math.random() * quotes.length);
 
-    setQuote(quotes[randomIndex]);
-    setQuoteCount((prev) => prev + 1);
+  const [favorites, setFavorites] = useState(() => {
+    const saved = localStorage.getItem("favorites");
+
+    return saved
+      ? JSON.parse(saved)
+      : [];
+  });
+
+
+  // =====================================================
+  // NEW RANDOM QUOTE
+  // =====================================================
+
+  const getRandomQuote = async () => {
+    try {
+      setLoading(true);
+
+      const response = await fetch(
+        "https://dummyjson.com/quotes/random"
+      );
+
+      if (!response.ok) {
+        throw new Error(
+          "Failed to fetch quote."
+        );
+      }
+
+      const data =
+        await response.json();
+
+      setQuote({
+        text: data.quote,
+        author: data.author,
+        category: "Wisdom",
+      });
+
+      setQuoteCount(
+        (prev) => prev + 1
+      );
+
+    } catch (error) {
+      console.error(
+        "New quote error:",
+        error
+      );
+    } finally {
+      setLoading(false);
+    }
   };
-const getQuoteFromAPI = async () => {
-  try {
-    setLoading(true);
 
-    const response = await fetch(
-      "https://dummyjson.com/quotes/random"
+
+  // =====================================================
+  // EXPLORE
+  // =====================================================
+
+  const getQuoteFromAPI = async () => {
+    try {
+      setLoading(true);
+
+      const response = await fetch(
+        "https://dummyjson.com/quotes/random"
+      );
+
+      if (!response.ok) {
+        throw new Error(
+          "Failed to explore quote."
+        );
+      }
+
+      const data =
+        await response.json();
+
+      setQuote({
+        text: data.quote,
+        author: data.author,
+        category: "Explore",
+      });
+
+      setQuoteCount(
+        (prev) => prev + 1
+      );
+
+    } catch (error) {
+      console.error(
+        "Explore quote error:",
+        error
+      );
+    } finally {
+      setLoading(false);
+    }
+  };
+
+
+  // =====================================================
+  // COPY
+  // =====================================================
+
+  const copyQuote = () => {
+    if (!quote) return;
+
+    navigator.clipboard.writeText(
+      `${quote.text} — ${quote.author}`
     );
 
-    const data = await response.json();
+    setCopied(true);
 
-    setQuote({
-      text: data.quote,
-      author: data.author,
-      category: "Internet",
-    });
+    setTimeout(() => {
+      setCopied(false);
+    }, 2000);
+  };
 
-    setQuoteCount((prev) => prev + 1);
-  } catch (error) {
-    console.error(error);
-  } finally {
-    setLoading(false);
-  }
-};
-const copyQuote = () => {
-  navigator.clipboard.writeText(
-    `${quote.text} — ${quote.author}`
-  );
 
-  setCopied(true);
+  // =====================================================
+  // FAVORITE
+  // =====================================================
 
-  setTimeout(() => {
-    setCopied(false);
-  }, 2000);
-};
-const addFavorite = () => {
-  if (!favorites.some((item) => item.text === quote.text)) {
-    setFavorites([...favorites, quote]);
-  }
-};
+  const addFavorite = () => {
+    if (!quote) return;
 
-const removeFavorite = (quoteToRemove) => {
-  setFavorites(
-    favorites.filter(
-      (item) => item.text !== quoteToRemove.text
-    )
-  );
-};
+    if (
+      !favorites.some(
+        (item) =>
+          item.text === quote.text
+      )
+    ) {
+      setFavorites([
+        ...favorites,
+        quote,
+      ]);
+    }
+  };
 
-const favorite = favorites.some(
-  (item) => item.text === quote.text
-);
-useEffect(() => {
-  localStorage.setItem(
-    "favorites",
-    JSON.stringify(favorites)
-  );
-}, [favorites]);
- return {
-  quote,
-  quoteCount,
-  getRandomQuote,
-  setQuote,
-  loading,
-  copied,
-  favorite,
-  favorites,
-  addFavorite,
-  removeFavorite,
-  getQuoteFromAPI,
-  copyQuote,
-};
+
+  const removeFavorite = (
+    quoteToRemove
+  ) => {
+    setFavorites(
+      favorites.filter(
+        (item) =>
+          item.text !==
+          quoteToRemove.text
+      )
+    );
+  };
+
+
+  const favorite =
+    favorites.some(
+      (item) =>
+        item.text === quote.text
+    );
+
+
+  // =====================================================
+  // SAVE FAVORITES
+  // =====================================================
+
+  useEffect(() => {
+    localStorage.setItem(
+      "favorites",
+      JSON.stringify(favorites)
+    );
+  }, [favorites]);
+
+
+  return {
+    quote,
+    quoteCount,
+    getRandomQuote,
+    setQuote,
+    loading,
+    copied,
+    favorite,
+    favorites,
+    addFavorite,
+    removeFavorite,
+    getQuoteFromAPI,
+    copyQuote,
+  };
 }
 
 export default useQuotes;

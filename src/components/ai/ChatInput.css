@@ -1,0 +1,90 @@
+.chat-input-container{
+    padding:24px;
+    border-top:1px solid #343541;
+    background:#202123;
+    flex-shrink:0;
+}
+
+.chat-form{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    width:100%;
+}
+
+.chat-input {
+    flex: 1;
+    width: auto;
+    min-width: 0;
+
+    background:#2B2C2F;
+    border:1px solid #40414F;
+
+    color:white;
+
+    padding:18px 22px;
+
+    border-radius:28px;
+
+    font-size:16px;
+
+    outline:none;
+
+    transition:.2s;
+}
+
+.chat-input:focus{
+    border-color:var(--accent);
+    box-shadow:0 0 0 3px rgba(250,204,21,.20);
+}
+
+.send-btn{
+    width:54px;
+    height:54px;
+
+    border:none;
+    border-radius:50%;
+
+    background:var(--accent);
+
+    color:#111;
+
+    font-size:22px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    flex-shrink:0;
+
+    transition:.25s;
+}
+
+.send-btn:hover{
+    background:var(--accent-hover);
+    transform:scale(1.08);
+}
+@media (max-width: 600px) {
+    .chat-input-container {
+        padding: 12px;
+    }
+
+    .chat-form {
+        gap: 8px;
+    }
+
+    .chat-input {
+        padding: 14px 16px;
+        font-size: 16px;
+    }
+
+    .send-btn {
+        width: 48px;
+        height: 48px;
+        font-size: 20px;
+    }
+}

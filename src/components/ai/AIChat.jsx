@@ -1,3 +1,14 @@
+import {
+  createMessage,
+} from "../../models/ChatModel";
+import { typeWriter } from "../../utils/typewriter";
+import EmptyState from "./EmptyState";
+import TypingIndicator from "./TypingIndicator";
+import "./AIChat.css";
+import ChatHeader from "./ChatHeader";
+import ChatHistory from "./ChatHistory";
+import ChatInput from "./ChatInput";
+import ChatBubble from "./ChatBubble";
 import { useChatContext } from "../../context/ChatContext";
 import { askAI } from "../../services/aiService";
 function AIChat() {const {
@@ -26,15 +37,43 @@ const handleAskAI = async () => {
 
   const data = await askAI(question);
 
-    setAiResponse(data);
+setAiResponse(data);
 
-    setMessages((prev) => [
-      ...prev,
-      { id: Date.now(), role: "user", content: question },
-      { id: Date.now() + 1, role: "assistant", content: data },
-    ]);
+const userId = crypto.randomUUID();
+const assistantId = crypto.randomUUID();
 
-    setQuestion("");
+setMessages((prev) => [
+  ...prev,
+  {
+    id: userId,
+    role: "user",
+    content: question,
+  },
+  {
+    id: assistantId,
+    role: "assistant",
+    content: "",
+  },
+]);
+
+setQuestion("");
+
+await typeWriter(
+  data,
+  (currentText) => {
+    setMessages((prev) =>
+      prev.map((message) =>
+        message.id === assistantId
+          ? {
+              ...message,
+              content: currentText,
+            }
+          : message
+      )
+    );
+  },
+  20
+);
   } catch (err) {
     console.error(err);
   } finally {
@@ -42,86 +81,31 @@ const handleAskAI = async () => {
   }
 };
 
-  return (
-    <div
-      style={{
-        textAlign: "center",
-        marginTop: "30px",
-        padding: "30px",
-        backgroundColor: "#111827",
-        color: "white",
-        borderRadius: "20px",
-      }}
-    >
-      <h1>WISDOMSCROLL AI</h1>
-      <div
-  style={{
-    maxWidth: "700px",
-    margin: "20px auto",
-    textAlign: "left",
-  }}
->
-  {messages.map((message) => (
-    <div
-      key={message.id}
-      style={{
-        background:
-          message.role === "user"
-            ? "#2563EB"
-            : "#374151",
-        padding: "12px",
-        borderRadius: "12px",
-        marginBottom: "10px",
-      }}
-    >
-      <strong>
-        {message.role === "user"
-          ? "👤 You"
-          : "🤖 Wisdom"}
-      </strong>
-
-      <p>{message.content}</p>
-    </div>
-  ))}
-</div>
-
-<form
-  onSubmit={(e) => {
-    e.preventDefault();
-    handleAskAI();
-  }}
-  style={{
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-    gap: "10px",
-    marginTop: "20px",
-  }}
->
-<input
-  type="text"
-  placeholder="Ask WisdomScroll AI..."
-  value={question}
-  onChange={(e) => setQuestion(e.target.value)}
-  style={{
-    flex: 1,
-    maxWidth: "600px",
-    padding: "14px 18px",
-    borderRadius: "14px",
-    border: "1px solid #4B5563",
-    backgroundColor: "#1F2937",
-    color: "white",
-    fontSize: "16px",
-    outline: "none",
-  }}
+return (
+ <div className="chat-container">
+    <ChatHeader
+  startNewChat={startNewChat}
 />
-<button type="submit">
-  ASK
-</button>
-</form>
 
-    </div>
-  );
+    {messages.length <= 1 ? (
+  <EmptyState
+    onSuggestionClick={(text) => setQuestion(text)}
+  />
+) : (
+ <ChatHistory
+  messages={messages}
+  loading={loading}
+/>
+)}
+    {loading && <TypingIndicator />}
+
+    <ChatInput
+      question={question}
+      setQuestion={setQuestion}
+      handleAskAI={handleAskAI}
+    />
+  </div>
+);
 }
-
-export default AIChat;    
+export default AIChat;
+  

@@ -1,0 +1,112 @@
+.empty-state {
+    flex: 1;
+    min-height: 0;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    color: white;
+
+    padding: 40px;
+    box-sizing: border-box;
+
+    width: 100%;
+    max-width: 100%;
+}
+
+.empty-state h1 {
+    font-size: 42px;
+    margin: 0 0 12px;
+    max-width: 100%;
+}
+
+.empty-state p {
+    color: #A1A1AA;
+    font-size: 18px;
+    margin: 0 0 50px;
+    max-width: 100%;
+}
+
+.suggestion-grid {
+    display: grid;
+
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    gap: 18px;
+
+    width: min(700px, 100%);
+    max-width: 100%;
+
+    box-sizing: border-box;
+}
+
+.suggestion-card {
+    background: #2B2C2F;
+    color: white;
+
+    border: 1px solid #3F3F46;
+
+    border-radius: 18px;
+
+    padding: 22px;
+
+    cursor: pointer;
+
+    transition: .25s;
+
+    font-size: 16px;
+
+    min-width: 0;
+    max-width: 100%;
+
+    box-sizing: border-box;
+
+    overflow-wrap: anywhere;
+}
+
+.suggestion-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-3px);
+}
+
+/* =========================
+   MOBILE PORTRAIT
+   ========================= */
+
+@media (max-width: 600px) {
+
+    .empty-state {
+        padding: 20px 14px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        justify-content: center;
+    }
+
+    .empty-state h1 {
+        font-size: 30px;
+        line-height: 1.2;
+    }
+
+    .empty-state p {
+        font-size: 15px;
+        line-height: 1.5;
+        margin-bottom: 28px;
+    }
+
+    .suggestion-grid {
+        grid-template-columns: 1fr;
+        width: 100%;
+        gap: 10px;
+    }
+
+    .suggestion-card {
+        width: 100%;
+        padding: 16px;
+        border-radius: 14px;
+        font-size: 15px;
+    }
+}
