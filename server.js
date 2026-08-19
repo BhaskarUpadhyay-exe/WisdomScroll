@@ -8,6 +8,7 @@ dotenv.config();
 const app = express();
 
 app.use(cors());
+app.use(express.json());
 
 const groq = new Groq({
   apiKey: process.env.GROQ_API_KEY,
@@ -134,6 +135,7 @@ a hypothetical question.
 Example:
 
 User:
+
 "What should I do if I haven't completed
 my focus?"
 
@@ -164,6 +166,7 @@ actual WisdomScroll data.
 Example:
 
 User:
+
 "I haven't finished my focus today."
 
 If the data confirms it:
@@ -460,7 +463,7 @@ function parseWisdomScrollRequest(rawQuestion) {
   let userData = null;
 
   /*
-    Our frontend currently sends:
+    Our frontend sends:
 
     USER'S WISDOMSCROLL DATA:
 
@@ -513,14 +516,20 @@ function parseWisdomScrollRequest(rawQuestion) {
           .trim();
 
       try {
+
         userData =
           JSON.parse(dataText);
+
       } catch (error) {
+
         console.log(
           "Could not parse WisdomScroll data."
         );
+
       }
+
     }
+
   }
 
 
@@ -543,6 +552,7 @@ function parseWisdomScrollRequest(rawQuestion) {
       rawQuestion
         .slice(questionStart)
         .trim();
+
   }
 
 
@@ -550,6 +560,7 @@ function parseWisdomScrollRequest(rawQuestion) {
     actualQuestion,
     userData,
   };
+
 }
 
 
@@ -560,10 +571,13 @@ function parseWisdomScrollRequest(rawQuestion) {
 function buildDataMessage(userData) {
 
   if (!userData) {
+
     return `
 No WisdomScroll data is available.
 `;
+
   }
+
 
   return `
 WISDOMSCROLL USER CONTEXT
@@ -625,19 +639,15 @@ ${
 
 END WISDOMSCROLL USER CONTEXT
 `;
+
 }
 
 
 // =====================================================
-// API ROUTE
+// CREATE AI RESPONSE
 // =====================================================
 
-app.get("/", async (req, res) => {
-
-  const rawQuestion =
-    req.query.question ||
-    "Introduce yourself as the WisdomScroll Coach.";
-
+async function generateAIResponse(rawQuestion) {
 
   console.log(
     "RAW REQUEST:",
@@ -660,80 +670,103 @@ app.get("/", async (req, res) => {
   );
 
 
+  const chatCompletion =
+    await groq.chat.completions.create({
+
+      model:
+        "openai/gpt-oss-20b",
+
+      temperature: 0.75,
+
+      max_completion_tokens: 700,
+
+      messages: [
+
+        // -----------------------------------------
+        // COACH PERSONALITY
+        // -----------------------------------------
+
+        {
+          role: "system",
+
+          content:
+            WISDOMSCROLL_SYSTEM_PROMPT,
+        },
+
+
+        // -----------------------------------------
+        // USER DATA
+        // -----------------------------------------
+
+        {
+          role: "system",
+
+          content:
+            buildDataMessage(
+              userData
+            ),
+        },
+
+
+        // -----------------------------------------
+        // ACTUAL USER QUESTION
+        // -----------------------------------------
+
+        {
+          role: "user",
+
+          content:
+            actualQuestion,
+        },
+
+      ],
+
+    });
+
+
+  const answer =
+    chatCompletion
+      .choices?.[0]
+      ?.message?.content;
+
+
+  if (!answer) {
+
+    throw new Error(
+      "AI returned an empty response."
+    );
+
+  }
+
+
+  return answer;
+
+}
+
+
+// =====================================================
+// GET API
+// =====================================================
+
+app.get("/", async (req, res) => {
+
+  const rawQuestion =
+    req.query.question ||
+    "Introduce yourself as the WisdomScroll Coach.";
+
   try {
 
-    const chatCompletion =
-      await groq.chat.completions.create({
-
-       model:
-  "openai/gpt-oss-20b",
-
-        temperature: 0.75,
-
-        max_completion_tokens: 700,
-
-        messages: [
-
-          // -----------------------------------------
-          // COACH PERSONALITY
-          // -----------------------------------------
-
-          {
-            role: "system",
-
-            content:
-              WISDOMSCROLL_SYSTEM_PROMPT,
-          },
-
-
-          // -----------------------------------------
-          // USER DATA
-          // -----------------------------------------
-
-          {
-            role: "system",
-
-            content:
-              buildDataMessage(
-                userData
-              ),
-          },
-
-
-          // -----------------------------------------
-          // ACTUAL USER QUESTION
-          // -----------------------------------------
-
-          {
-            role: "user",
-
-            content:
-              actualQuestion,
-          },
-
-        ],
-      });
-
-
     const answer =
-      chatCompletion
-        .choices?.[0]
-        ?.message?.content;
-
-
-    if (!answer) {
-      throw new Error(
-        "AI returned an empty response."
+      await generateAIResponse(
+        rawQuestion
       );
-    }
-
 
     res.send(answer);
 
   } catch (error) {
 
     console.error(
-      "AI ERROR:",
+      "GET / AI ERROR:",
       error
     );
 
@@ -742,7 +775,74 @@ app.get("/", async (req, res) => {
       .send(
         "Coach connection failed. Try again."
       );
+
   }
+
+});
+
+
+// =====================================================
+// POST CHAT API
+// USED BY THE WISDOMSCROLL REACT APP
+// =====================================================
+
+app.post("/api/chat", async (req, res) => {
+
+  try {
+
+    const rawQuestion =
+      req.body?.question ||
+      "Introduce yourself as the WisdomScroll Coach.";
+
+    const answer =
+      await generateAIResponse(
+        rawQuestion
+      );
+
+    res.json({
+
+      success: true,
+
+      answer: answer,
+
+    });
+
+  } catch (error) {
+
+    console.error(
+      "POST /api/chat AI ERROR:",
+      error
+    );
+
+    res.status(500).json({
+
+      success: false,
+
+      error:
+        "Coach connection failed. Try again.",
+
+    });
+
+  }
+
+});
+
+
+// =====================================================
+// HEALTH CHECK
+// =====================================================
+
+app.get("/api/test", (req, res) => {
+
+  res.json({
+
+    success: true,
+
+    message:
+      "WisdomScroll AI server is running.",
+
+  });
+
 });
 
 
