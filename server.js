@@ -665,8 +665,8 @@ app.get("/", async (req, res) => {
     const chatCompletion =
       await groq.chat.completions.create({
 
-        model:
-  "llama-3.1-8b-instant",
+       model:
+  "openai/gpt-oss-20b",
 
         temperature: 0.75,
 
